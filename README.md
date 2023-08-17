@@ -1,5 +1,9 @@
 # Meu plano de estudos
 
+### Github
+https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV
+https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+
 ### EPP - Endpoint Protection Plataform
 > https://www.youtube.com/watch?v=pbp-L2DYxN0<br>
 > https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50<br>
@@ -81,17 +85,22 @@ https://www.youtube.com/watch?v=eN8dFfTrEtQ&pp=ygUPbWljcm9zc2VydmnDp29z
 https://www.youtube.com/watch?v=Zu-D9A_L5Qo&pp=ygUPbWljcm9zc2VydmnDp29z
 https://www.youtube.com/watch?v=33LxCvyU_FU&pp=ygUPbWljcm9zc2VydmnDp29z
 
-### Zabbix
+### Zabbix, Grafana e Prometheus
+https://www.youtube.com/playlist?list=PLigQ9zMmlIqIcIq3vUfpVeRTIWy5E0xX-
+https://www.youtube.com/playlist?list=PL2g0xWOCcjdETo6NRmoAZKHqVhNWuFCFv
+https://www.youtube.com/watch?v=GQ8o9WiS9Ew&list=PLCFBm2AvdHoBn7lbiP6d8ef1l74hAjXvo
+https://www.youtube.com/watch?v=GPptIhzPBro&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D
+https://www.youtube.com/watch?v=f_a72WWROKI&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D
+https://www.youtube.com/watch?v=OnzIUGHl9no&pp=ygUQY3Vyc28gUHJvbWV0aGV1cw%3D%3D
 
+### NoSQL
+https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj
 
-### Uptrend
-
-
-### Grafana
-
-### Monitoramento TSDB / NoSQL (Prometheus, InfluxDB,  M3DB, TickStack)
-
-### Automação de ambiente ( Terraform, Ansible, Weblogic, Jboss, Docker, Kubernets )
+### Automação de ambiente ( Terraform, Ansible, Jboss )
+https://www.youtube.com/watch?v=bIPF_hzmQGE&list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP
+https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa
+https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX
+https://www.youtube.com/watch?v=GwCzr5WYQfQ&list=PLL2bR7L3G2a56lkv8MrAd64gTHNAj7-GL
 
 ### Sistema Sênior G5 e G7
 
@@ -139,6 +148,8 @@ https://www.youtube.com/watch?v=UcVlmXVTKU8&list=PL2EbCLtbwa4mYKpLneByRAwvqzq7Jp
 ### SDWAN, MPLS, Satélite
 
 ### Scrum e Kanban
+
+### Containers Docker e Kubernets
 
 ### Burpsuite
 
