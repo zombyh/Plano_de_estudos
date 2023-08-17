@@ -63,6 +63,7 @@ https://www.youtube.com/watch?v=8CB5jXXg43Q&pp=ygUKV2ViIEZpbHRlcg%3D%3D
 
 ### ISO 27001, 27002 e 31000
 https://www.youtube.com/playlist?list=PLPmRk_xSwrYSMs2-d1rBn4skMQFc4YfB0
+https://www.youtube.com/watch?v=fNYxsQoAfVI&pp=ygU5Y3Vyc28gR2VzdMOjbyBkZSBpbmNpZGVudGVzIGRlIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv
 https://www.pensarcursos.com.br/curso/gestao-de-riscos-principios-e-diretrizes-da-iso-31000
 
 ### GDPR
@@ -102,27 +103,30 @@ https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI
 https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX
 https://www.youtube.com/watch?v=GwCzr5WYQfQ&list=PLL2bR7L3G2a56lkv8MrAd64gTHNAj7-GL
 
-### Sistema Sênior G5 e G7
-
 ### Windows Server
 > https://www.youtube.com/watch?v=3NQxoDOjeoQ&list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk<br>
 > https://www.youtube.com/watch?v=-pKKWLsIehI&list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR<br>
 > https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j
 
+### Sistemas de Backup Veeam,  Acronis, Commvault, DataProtector
+https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt
+https://www.youtube.com/watch?v=zGo8ffuFr8g&pp=ygUaU2lzdGVtYXMgZGUgQmFja3VwIEFjcm9uaXM%3D
+https://www.youtube.com/watch?v=KJX7U-Ujs8U&pp=ygUWY3Vyc28gQmFja3VwIENvbW12YXVsdA%3D%3D
+https://www.youtube.com/watch?v=JTHlvXwB4zM&pp=ygUaY3Vyc28gQmFja3VwIERhdGFQcm90ZWN0b3I%3D
 
 
-### Sistemas de Backup Veeam,  Acronis, Commvault, DataProtector, Networker
-
-### Gestão de incidentes de segurança da informação
-
-### Anti-spam
-
-### DLP
+### DLP - Data loss prevention
+https://www.youtube.com/watch?v=VHeX3D2WOUc&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D
+https://www.youtube.com/watch?v=n4x95P96x40&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D
 
 ### Sistema de Prevenção de Intrusão (IPS)
 https://www.youtube.com/watch?v=UcVlmXVTKU8&list=PL2EbCLtbwa4mYKpLneByRAwvqzq7Jpeur&pp=iAQB
+https://www.youtube.com/watch?v=a_Vp0ca4G2g&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D
+https://www.youtube.com/watch?v=FiUE1SomFIU&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D
 
 ### Mapeamento de riscos,  ameaças, vulnerabilidades e recuperação em incidentes
+https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS
+
 
 ### Teste de intrusão
 
