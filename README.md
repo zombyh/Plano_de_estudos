@@ -3,21 +3,21 @@
 ## Aprender:
 
 ### EPP - Endpoint Protection Plataform
-> https://www.youtube.com/watch?v=pbp-L2DYxN0
-> https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50
+> https://www.youtube.com/watch?v=pbp-L2DYxN0<br>
+> https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50<br>
 
-EDR - Endpoint Detection and Response
-https://www.youtube.com/watch?v=WGdN2Lwu9xk
-https://www.youtube.com/watch?v=jN3kENvsLBI
-https://www.youtube.com/watch?v=7msXpM8uBGw&pp=ygUMY3Vyc28gZGUgZWRy
-https://www.youtube.com/watch?v=A9dvnwUvE-Y&pp=ygUMY3Vyc28gZGUgZWRy
-https://www.youtube.com/watch?v=SWzs-ex2rLM
+### EDR - Endpoint Detection and Response
+> https://www.youtube.com/watch?v=WGdN2Lwu9xk
+> https://www.youtube.com/watch?v=jN3kENvsLBI
+> https://www.youtube.com/watch?v=7msXpM8uBGw&pp=ygUMY3Vyc28gZGUgZWRy
+> https://www.youtube.com/watch?v=A9dvnwUvE-Y&pp=ygUMY3Vyc28gZGUgZWRy
+> https://www.youtube.com/watch?v=SWzs-ex2rLM
 
-NDR - Network Detection and Response
-https://www.youtube.com/watch?v=dUinLCRExTk&list=PLoFjNe1MRmVBdsCcfeE8Nw6KmGtzMg8Aq
+### NDR - Network Detection and Response
+> https://www.youtube.com/watch?v=dUinLCRExTk&list=PLoFjNe1MRmVBdsCcfeE8Nw6KmGtzMg8Aq
 
-XDR - Extended Detection and Response
-https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUMY3Vyc28gZGUgZWRy
+### XDR - Extended Detection and Response
+> https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUMY3Vyc28gZGUgZWRy
 
 Security Web gateway
 https://www.youtube.com/watch?v=PE7CdHdrrIY&list=PLPjlim_Gu-dj1dhXHY2qjRVatJsYiP_z0
