@@ -1,11 +1,10 @@
-# Plano_de_estudos
-Meu plano de estudos
+# Meu plano de estudos
 
-Aprender:
+## Aprender:
 
-EPP - Endpoint Protection Plataform
-https://www.youtube.com/watch?v=pbp-L2DYxN0
-https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50
+### EPP - Endpoint Protection Plataform
+> https://www.youtube.com/watch?v=pbp-L2DYxN0
+> https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50
 
 EDR - Endpoint Detection and Response
 https://www.youtube.com/watch?v=WGdN2Lwu9xk
