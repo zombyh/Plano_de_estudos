@@ -70,11 +70,24 @@ https://www.youtube.com/watch?v=Y7EeJjQ75_Q&list=PLBl7YWFC3c3uQKjg-YP9WFBChdC3iq
 ### Soluções de segurança baseadas em palo alto
 https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB
 
-### Framework NIST e MITRE ATT&CK e SANS
+### Framework NIST e MITRE ATT&CK
+https://www.youtube.com/watch?v=Q8e-gM142bw&pp=ygUORnJhbWV3b3JrIE5JU1Q%3D
+https://www.youtube.com/watch?v=ZuMXfucrRQI
+https://www.youtube.com/watch?v=oOtH6IX1pvU
+https://www.youtube.com/watch?v=h4IQMhYCbxY
 
-### Microserviços
+### Microsserviços
+https://www.youtube.com/watch?v=eN8dFfTrEtQ&pp=ygUPbWljcm9zc2VydmnDp29z
+https://www.youtube.com/watch?v=Zu-D9A_L5Qo&pp=ygUPbWljcm9zc2VydmnDp29z
+https://www.youtube.com/watch?v=33LxCvyU_FU&pp=ygUPbWljcm9zc2VydmnDp29z
 
-### Zabbix, Uptrend e Grafana
+### Zabbix
+
+
+### Uptrend
+
+
+### Grafana
 
 ### Monitoramento TSDB / NoSQL (Prometheus, InfluxDB,  M3DB, TickStack)
 
