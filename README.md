@@ -1,8 +1,8 @@
 # Meu plano de estudos
 
 ### Github
-https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV
-https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+> https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV<br>
+> https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA<br>
 
 ### EPP - Endpoint Protection Plataform
 > https://www.youtube.com/watch?v=pbp-L2DYxN0<br>
@@ -54,54 +54,54 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 > https://www.udemy.com/course/mysqlcompleto/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&utm_term=_._ag_114148736799_._ad_485704569539_._de_c_._dm__._pl__._ti_dsa-393987629421_._li_1001686_._pd__._&gclid=EAIaIQobChMI-8aeiZ3kgAMVQUJIAB0Pug9bEAAYAiAAEgK9R_D_BwE<br>
 
 ### Thread Prevention
-https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D
-https://www.youtube.com/watch?v=5mQzwpf94sE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D
+> https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D<br>
+> https://www.youtube.com/watch?v=5mQzwpf94sE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D<br>
 
 ### Web Filter
-https://www.youtube.com/watch?v=OrkiQK0c4ao&pp=ygUKV2ViIEZpbHRlcg%3D%3D
-https://www.youtube.com/watch?v=8CB5jXXg43Q&pp=ygUKV2ViIEZpbHRlcg%3D%3D
+> https://www.youtube.com/watch?v=OrkiQK0c4ao&pp=ygUKV2ViIEZpbHRlcg%3D%3D <br>
+> https://www.youtube.com/watch?v=8CB5jXXg43Q&pp=ygUKV2ViIEZpbHRlcg%3D%3D <br>
 
 ### ISO 27001, 27002 e 31000
-https://www.youtube.com/playlist?list=PLPmRk_xSwrYSMs2-d1rBn4skMQFc4YfB0
-https://www.youtube.com/watch?v=fNYxsQoAfVI&pp=ygU5Y3Vyc28gR2VzdMOjbyBkZSBpbmNpZGVudGVzIGRlIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv
-https://www.pensarcursos.com.br/curso/gestao-de-riscos-principios-e-diretrizes-da-iso-31000
+> https://www.youtube.com/playlist?list=PLPmRk_xSwrYSMs2-d1rBn4skMQFc4YfB0<br>
+> https://www.youtube.com/watch?v=fNYxsQoAfVI&pp=ygU5Y3Vyc28gR2VzdMOjbyBkZSBpbmNpZGVudGVzIGRlIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv<br>
+> https://www.pensarcursos.com.br/curso/gestao-de-riscos-principios-e-diretrizes-da-iso-31000<br>
 
-### GDPR
-https://www.youtube.com/watch?v=egGvTgk3HH8
+### GDPR - Regulamento Geral sobre a Proteção de Dados
+> https://www.youtube.com/watch?v=egGvTgk3HH8<br>
 
 ### Cisco ISA 3000
-https://www.youtube.com/watch?v=Y7EeJjQ75_Q&list=PLBl7YWFC3c3uQKjg-YP9WFBChdC3iq2nW
+> https://www.youtube.com/watch?v=Y7EeJjQ75_Q&list=PLBl7YWFC3c3uQKjg-YP9WFBChdC3iq2nW<br>
 
 ### Soluções de segurança baseadas em palo alto
-https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB
+> https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB<br>
 
 ### Framework NIST e MITRE ATT&CK
-https://www.youtube.com/watch?v=Q8e-gM142bw&pp=ygUORnJhbWV3b3JrIE5JU1Q%3D
-https://www.youtube.com/watch?v=ZuMXfucrRQI
-https://www.youtube.com/watch?v=oOtH6IX1pvU
-https://www.youtube.com/watch?v=h4IQMhYCbxY
+> https://www.youtube.com/watch?v=Q8e-gM142bw&pp=ygUORnJhbWV3b3JrIE5JU1Q%3D<br>
+> https://www.youtube.com/watch?v=ZuMXfucrRQI<br>
+> https://www.youtube.com/watch?v=oOtH6IX1pvU<br>
+> https://www.youtube.com/watch?v=h4IQMhYCbxY<br>
 
 ### Microsserviços
-https://www.youtube.com/watch?v=eN8dFfTrEtQ&pp=ygUPbWljcm9zc2VydmnDp29z
-https://www.youtube.com/watch?v=Zu-D9A_L5Qo&pp=ygUPbWljcm9zc2VydmnDp29z
-https://www.youtube.com/watch?v=33LxCvyU_FU&pp=ygUPbWljcm9zc2VydmnDp29z
+> https://www.youtube.com/watch?v=eN8dFfTrEtQ&pp=ygUPbWljcm9zc2VydmnDp29z<br>
+> https://www.youtube.com/watch?v=Zu-D9A_L5Qo&pp=ygUPbWljcm9zc2VydmnDp29z<br>
+> https://www.youtube.com/watch?v=33LxCvyU_FU&pp=ygUPbWljcm9zc2VydmnDp29z<br>
 
 ### Zabbix, Grafana e Prometheus
-https://www.youtube.com/playlist?list=PLigQ9zMmlIqIcIq3vUfpVeRTIWy5E0xX-
-https://www.youtube.com/playlist?list=PL2g0xWOCcjdETo6NRmoAZKHqVhNWuFCFv
-https://www.youtube.com/watch?v=GQ8o9WiS9Ew&list=PLCFBm2AvdHoBn7lbiP6d8ef1l74hAjXvo
-https://www.youtube.com/watch?v=GPptIhzPBro&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D
-https://www.youtube.com/watch?v=f_a72WWROKI&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D
-https://www.youtube.com/watch?v=OnzIUGHl9no&pp=ygUQY3Vyc28gUHJvbWV0aGV1cw%3D%3D
+> https://www.youtube.com/playlist?list=PLigQ9zMmlIqIcIq3vUfpVeRTIWy5E0xX-<br>
+> https://www.youtube.com/playlist?list=PL2g0xWOCcjdETo6NRmoAZKHqVhNWuFCFv<br>
+> https://www.youtube.com/watch?v=GQ8o9WiS9Ew&list=PLCFBm2AvdHoBn7lbiP6d8ef1l74hAjXvo<br>
+> https://www.youtube.com/watch?v=GPptIhzPBro&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D<br>
+> https://www.youtube.com/watch?v=f_a72WWROKI&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D<br>
+> https://www.youtube.com/watch?v=OnzIUGHl9no&pp=ygUQY3Vyc28gUHJvbWV0aGV1cw%3D%3D<br>
 
 ### NoSQL
-https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj
+> https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj<br>
 
 ### Automação de ambiente ( Terraform, Ansible, Jboss )
-https://www.youtube.com/watch?v=bIPF_hzmQGE&list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP
-https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa
-https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX
-https://www.youtube.com/watch?v=GwCzr5WYQfQ&list=PLL2bR7L3G2a56lkv8MrAd64gTHNAj7-GL
+> https://www.youtube.com/watch?v=bIPF_hzmQGE&list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP<br>
+> https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa<br>
+> https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX<br>
+> https://www.youtube.com/watch?v=GwCzr5WYQfQ&list=PLL2bR7L3G2a56lkv8MrAd64gTHNAj7-GL<br>
 
 ### Windows Server
 > https://www.youtube.com/watch?v=3NQxoDOjeoQ&list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk<br>
@@ -109,23 +109,23 @@ https://www.youtube.com/watch?v=GwCzr5WYQfQ&list=PLL2bR7L3G2a56lkv8MrAd64gTHNAj7
 > https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j
 
 ### Sistemas de Backup Veeam,  Acronis, Commvault, DataProtector
-https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt
-https://www.youtube.com/watch?v=zGo8ffuFr8g&pp=ygUaU2lzdGVtYXMgZGUgQmFja3VwIEFjcm9uaXM%3D
-https://www.youtube.com/watch?v=KJX7U-Ujs8U&pp=ygUWY3Vyc28gQmFja3VwIENvbW12YXVsdA%3D%3D
-https://www.youtube.com/watch?v=JTHlvXwB4zM&pp=ygUaY3Vyc28gQmFja3VwIERhdGFQcm90ZWN0b3I%3D
+> https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt<br>
+> https://www.youtube.com/watch?v=zGo8ffuFr8g&pp=ygUaU2lzdGVtYXMgZGUgQmFja3VwIEFjcm9uaXM%3D<br>
+> https://www.youtube.com/watch?v=KJX7U-Ujs8U&pp=ygUWY3Vyc28gQmFja3VwIENvbW12YXVsdA%3D%3D<br>
+> https://www.youtube.com/watch?v=JTHlvXwB4zM&pp=ygUaY3Vyc28gQmFja3VwIERhdGFQcm90ZWN0b3I%3D<br>
 
 
 ### DLP - Data loss prevention
-https://www.youtube.com/watch?v=VHeX3D2WOUc&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D
-https://www.youtube.com/watch?v=n4x95P96x40&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D
+> https://www.youtube.com/watch?v=VHeX3D2WOUc&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D<br>
+> https://www.youtube.com/watch?v=n4x95P96x40&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D<br>
 
 ### Sistema de Prevenção de Intrusão (IPS)
-https://www.youtube.com/watch?v=UcVlmXVTKU8&list=PL2EbCLtbwa4mYKpLneByRAwvqzq7Jpeur&pp=iAQB
-https://www.youtube.com/watch?v=a_Vp0ca4G2g&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D
-https://www.youtube.com/watch?v=FiUE1SomFIU&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D
+> https://www.youtube.com/watch?v=UcVlmXVTKU8&list=PL2EbCLtbwa4mYKpLneByRAwvqzq7Jpeur&pp=iAQB<br>
+> https://www.youtube.com/watch?v=a_Vp0ca4G2g&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D<br>
+> https://www.youtube.com/watch?v=FiUE1SomFIU&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D<br>
 
 ### Mapeamento de riscos,  ameaças, vulnerabilidades e recuperação em incidentes
-https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS
+> https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS<br>
 
 
 ### Teste de intrusão
@@ -158,7 +158,7 @@ https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJ
 ### Burpsuite
 
 ### Programação
-https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&pp=iAQB
+> https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&pp=iAQB<br>
 
 ### Python
 
