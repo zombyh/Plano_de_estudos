@@ -69,13 +69,13 @@
 ### GDPR - Regulamento Geral sobre a Proteção de Dados
 > https://www.youtube.com/watch?v=egGvTgk3HH8<br>
 
-### Cisco ISA 3000
+### Cisco
 > https://www.youtube.com/watch?v=Y7EeJjQ75_Q&list=PLBl7YWFC3c3uQKjg-YP9WFBChdC3iq2nW<br>
 
 ### Soluções de segurança baseadas em palo alto
 > https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB<br>
 
-### Framework NIST e MITRE ATT&CK
+### Frameworks NIST, MITRE e ATT@CK
 > https://www.youtube.com/watch?v=Q8e-gM142bw&pp=ygUORnJhbWV3b3JrIE5JU1Q%3D<br>
 > https://www.youtube.com/watch?v=ZuMXfucrRQI<br>
 > https://www.youtube.com/watch?v=oOtH6IX1pvU<br>
@@ -97,7 +97,7 @@
 ### NoSQL
 > https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj<br>
 
-### Automação de ambiente ( Terraform, Ansible, Jboss )
+### Automação de ambiente Terraform, Ansible e Jboss
 > https://www.youtube.com/watch?v=bIPF_hzmQGE&list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP<br>
 > https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa<br>
 > https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX<br>
@@ -126,20 +126,36 @@
 
 ### Mapeamento de riscos,  ameaças, vulnerabilidades e recuperação em incidentes
 > https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS<br>
-
+> https://www.youtube.com/watch?v=7f3I58SBHMY&pp=ygU2cmVjdXBlcmHDp8OjbyBlbSBpbmNpZGVudGVzIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv<br>
 
 ### Teste de intrusão
+https://www.youtube.com/watch?v=eXKVqGc6bZg&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv
+https://www.youtube.com/watch?v=RIQsengnsZQ&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv
 
-### Trend Micro (Vision One - XDR - APEXONE - Deep Security - Email Security - IMSVA - CAS )
+
+### Trend Micro 
+https://www.youtube.com/watch?v=dNbv44CCKcs&pp=ygUXVHJlbmQgTWljcm8gZmVycmFtZW50YXM%3D
+https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUWdmlzaW9uIG9uZSB0cmVuZCBtaWNybw%3D%3D
+https://www.youtube.com/playlist?list=PLcaWiSBV1nWqQA2sOcfOFjZTYUJZEAQK2
+https://www.youtube.com/watch?v=t7QhVzsHDqQ&list=PLcaWiSBV1nWp6GMQOe7Mb-qqgzR-6juPm&pp=iAQB
+https://www.youtube.com/watch?v=9NQA_mjbdNY&list=PLcaWiSBV1nWoo3hkLJ-Kz-BIKKLWpTA1R&pp=iAQB
 
 ### Virtualização VMWARE, Citrix 
 > https://www.youtube.com/watch?v=1Y6haDEtEHg&list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u&pp=iAQB<br>
+> https://www.youtube.com/watch?v=q4zb0Y19L_0&list=PLuQ_wGJOQewbpZtpgUQw74Od3mRkS0Ntu
+> https://www.youtube.com/watch?v=P2FrsVuIVCU&list=PLfQY5-FaMnQeR_0z22WkoFe9ZHFO9SADg
 
 ### Security Operation Center (SOC)
+https://www.youtube.com/watch?v=jHr6o8_sKZo&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D
+https://www.youtube.com/watch?v=PheuitelQe0&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D
+
 
 ### Antivirus corporativo
+https://www.youtube.com/watch?v=_elV2XToHwM&pp=ygUVQW50aXZpcnVzIGNvcnBvcmF0aXZv
 
 ### Cyberark
+https://www.youtube.com/watch?v=YAvSo5s7wu4&pp=ygUIQ3liZXJhcms%3D
+https://www.youtube.com/watch?v=mPbyIRPGzAA&pp=ygUIQ3liZXJhcms%3D
 
 ### Cortex XDR
 
