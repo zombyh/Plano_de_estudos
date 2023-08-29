@@ -20,6 +20,7 @@
 
 ### XDR - Extended Detection and Response
 > https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUMY3Vyc28gZGUgZWRy<br>
+> https://www.youtube.com/playlist?list=PLBpoVs10QWXJKYqv3ss7ZNdbSUzvKZJh6<br>
 
 ### Security Web gateway
 > https://www.youtube.com/watch?v=PE7CdHdrrIY&list=PLPjlim_Gu-dj1dhXHY2qjRVatJsYiP_z0<br>
@@ -45,13 +46,16 @@
 > https://www.youtube.com/watch?v=zWpwaarQ11w&list=PLAZ9U7MSl5m_SuvPQZh6mSar0iTwAHnmH<br>
 > https://www.youtube.com/playlist?list=PLFajyb7NamFDsGaj09kdTHX3T9GMPTNA0<br>
 > https://www.youtube.com/watch?v=W4Wsuf8L4ak&list=PL2EbCLtbwa4nZlZCptc3afxlVep9dVp0O&pp=iAQB<br>
+> https://www.youtube.com/watch?v=wQ3_exlS_EM&list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ<br>
 
 ### Proxy
 > https://www.youtube.com/watch?v=oarEXZuEPL4&pp=ygUKYXVsYSBwcm94eQ%3D%3D<br>
 > https://www.youtube.com/watch?v=TFWCNWjZk-Q&pp=ygUKYXVsYSBwcm94eQ%3D%3D<br>
 
 ### SQL
-> https://www.udemy.com/course/mysqlcompleto/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.PT_cc.BR&utm_term=_._ag_114148736799_._ad_485704569539_._de_c_._dm__._pl__._ti_dsa-393987629421_._li_1001686_._pd__._&gclid=EAIaIQobChMI-8aeiZ3kgAMVQUJIAB0Pug9bEAAYAiAAEgK9R_D_BwE<br>
+> https://www.youtube.com/watch?v=G7bMwefn8RQ&pp=ygUJY3Vyc28gc3Fs<br>
+> https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk<br>
+> https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r<br>
 
 ### Thread Prevention
 > https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D<br>
@@ -68,9 +72,6 @@
 
 ### GDPR - Regulamento Geral sobre a Proteção de Dados
 > https://www.youtube.com/watch?v=egGvTgk3HH8<br>
-
-### Cisco
-> https://www.youtube.com/watch?v=Y7EeJjQ75_Q&list=PLBl7YWFC3c3uQKjg-YP9WFBChdC3iq2nW<br>
 
 ### Soluções de segurança baseadas em palo alto
 > https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB<br>
@@ -106,14 +107,13 @@
 ### Windows Server
 > https://www.youtube.com/watch?v=3NQxoDOjeoQ&list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk<br>
 > https://www.youtube.com/watch?v=-pKKWLsIehI&list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR<br>
-> https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j
+> https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j<br>
 
 ### Sistemas de Backup Veeam,  Acronis, Commvault, DataProtector
 > https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt<br>
 > https://www.youtube.com/watch?v=zGo8ffuFr8g&pp=ygUaU2lzdGVtYXMgZGUgQmFja3VwIEFjcm9uaXM%3D<br>
 > https://www.youtube.com/watch?v=KJX7U-Ujs8U&pp=ygUWY3Vyc28gQmFja3VwIENvbW12YXVsdA%3D%3D<br>
 > https://www.youtube.com/watch?v=JTHlvXwB4zM&pp=ygUaY3Vyc28gQmFja3VwIERhdGFQcm90ZWN0b3I%3D<br>
-
 
 ### DLP - Data loss prevention
 > https://www.youtube.com/watch?v=VHeX3D2WOUc&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D<br>
@@ -128,58 +128,78 @@
 > https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS<br>
 > https://www.youtube.com/watch?v=7f3I58SBHMY&pp=ygU2cmVjdXBlcmHDp8OjbyBlbSBpbmNpZGVudGVzIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv<br>
 
-### Teste de intrusão
-https://www.youtube.com/watch?v=eXKVqGc6bZg&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv
-https://www.youtube.com/watch?v=RIQsengnsZQ&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv
-
+### Pentest
+> https://www.youtube.com/@hackereticoo/videos<br>
+> https://www.youtube.com/watch?v=eXKVqGc6bZg&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv<br>
+> https://www.youtube.com/watch?v=RIQsengnsZQ&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv<br>
+> https://www.youtube.com/playlist?list=PLfoplNRdP0qP8GHjq_gRdhxKuJejyTnVc<br>
+> https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/<br>
+> https://desecsecurity.com/curso/introducao-pentest<br>
+> https://academiadeforensedigital.com.br/curso-de-pentest-da-academia-de-forense-digital/<br>
 
 ### Trend Micro 
-https://www.youtube.com/watch?v=dNbv44CCKcs&pp=ygUXVHJlbmQgTWljcm8gZmVycmFtZW50YXM%3D
-https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUWdmlzaW9uIG9uZSB0cmVuZCBtaWNybw%3D%3D
-https://www.youtube.com/playlist?list=PLcaWiSBV1nWqQA2sOcfOFjZTYUJZEAQK2
-https://www.youtube.com/watch?v=t7QhVzsHDqQ&list=PLcaWiSBV1nWp6GMQOe7Mb-qqgzR-6juPm&pp=iAQB
-https://www.youtube.com/watch?v=9NQA_mjbdNY&list=PLcaWiSBV1nWoo3hkLJ-Kz-BIKKLWpTA1R&pp=iAQB
+> https://www.youtube.com/watch?v=dNbv44CCKcs&pp=ygUXVHJlbmQgTWljcm8gZmVycmFtZW50YXM%3D<br>
+> https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUWdmlzaW9uIG9uZSB0cmVuZCBtaWNybw%3D%3D<br>
+> https://www.youtube.com/playlist?list=PLcaWiSBV1nWqQA2sOcfOFjZTYUJZEAQK2<br>
+> https://www.youtube.com/watch?v=t7QhVzsHDqQ&list=PLcaWiSBV1nWp6GMQOe7Mb-qqgzR-6juPm&pp=iAQB<br>
+> https://www.youtube.com/watch?v=9NQA_mjbdNY&list=PLcaWiSBV1nWoo3hkLJ-Kz-BIKKLWpTA1R&pp=iAQB<br>
 
 ### Virtualização VMWARE, Citrix 
 > https://www.youtube.com/watch?v=1Y6haDEtEHg&list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u&pp=iAQB<br>
-> https://www.youtube.com/watch?v=q4zb0Y19L_0&list=PLuQ_wGJOQewbpZtpgUQw74Od3mRkS0Ntu
-> https://www.youtube.com/watch?v=P2FrsVuIVCU&list=PLfQY5-FaMnQeR_0z22WkoFe9ZHFO9SADg
+> https://www.youtube.com/watch?v=q4zb0Y19L_0&list=PLuQ_wGJOQewbpZtpgUQw74Od3mRkS0Ntu<br>
+> https://www.youtube.com/watch?v=P2FrsVuIVCU&list=PLfQY5-FaMnQeR_0z22WkoFe9ZHFO9SADg<br>
 
 ### Security Operation Center (SOC)
-https://www.youtube.com/watch?v=jHr6o8_sKZo&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D
-https://www.youtube.com/watch?v=PheuitelQe0&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D
-
+> https://www.youtube.com/watch?v=jHr6o8_sKZo&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D<br>
+> https://www.youtube.com/watch?v=PheuitelQe0&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D<br>
 
 ### Antivirus corporativo
-https://www.youtube.com/watch?v=_elV2XToHwM&pp=ygUVQW50aXZpcnVzIGNvcnBvcmF0aXZv
+> https://www.youtube.com/watch?v=_elV2XToHwM&pp=ygUVQW50aXZpcnVzIGNvcnBvcmF0aXZv<br>
 
 ### Cyberark
-https://www.youtube.com/watch?v=YAvSo5s7wu4&pp=ygUIQ3liZXJhcms%3D
-https://www.youtube.com/watch?v=mPbyIRPGzAA&pp=ygUIQ3liZXJhcms%3D
-
-### Cortex XDR
-
-### Cofre de senha MT4
+> https://www.youtube.com/watch?v=YAvSo5s7wu4&pp=ygUIQ3liZXJhcms%3D<br>
+> https://www.youtube.com/watch?v=mPbyIRPGzAA&pp=ygUIQ3liZXJhcms%3D<br>
 
 ### Azure, AWS e Google Cloud
+> https://www.youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC<br>
+> https://www.youtube.com/playlist?list=PLwftZeDnOzt0quETXYfGjfi2AcpeGX-7i<br>
+> https://www.youtube.com/playlist?list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm<br>
+> https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz<br>
+> https://www.youtube.com/playlist?list=PLCOuhjvAlGW9Jr_lsGXFQBgIKyQtJr_Lq<br>
+> https://www.youtube.com/playlist?list=PLCOuhjvAlGW9PAIFZrVjKneJ9cnIGEulp<br>
 
 ### Configuração de Switches e Aps
+> https://www.youtube.com/watch?v=YEte1DDucLI&list=PLucm8g_ezqNoXWMJKS31D7kFVd_oTg_kk<br>
+> https://www.youtube.com/watch?v=Y7EeJjQ75_Q&list=PLBl7YWFC3c3uQKjg-YP9WFBChdC3iq2nW<br>
+> https://www.youtube.com/playlist?list=PL6BTdBqzl1obFQmi3as2_xEh6Dob2Qhk3<br>
 
-### SDWAN, MPLS, Satélite
+### SDWAN, MPLS, OSPF, BGP
+> https://www.youtube.com/watch?v=d6L4F6gBdM4&list=PL6BTdBqzl1oZ7csTsAX1e-tn7islHEEII&pp=iAQB<br>
+> https://www.youtube.com/watch?v=FPzTeqibSok&list=PL6BTdBqzl1oarw80kp2QCxg4NxNtSlCzZ<br>
+> https://www.youtube.com/watch?v=VryYINc7180&list=PL6BTdBqzl1oZ2m542ZTkERux6U-Gk280L&pp=iAQB<br>
+> https://www.youtube.com/watch?v=N7CymF8f-JU&list=PL6BTdBqzl1oa_utISKxnJf6AWvjAq-dCb&pp=iAQB<br>
 
 ### Scrum e Kanban
+> https://www.youtube.com/playlist?list=PLRj4UESgCLz1uwaFje483eV8hQiBguW-P<br>
+> https://www.youtube.com/watch?v=244zW43WfM4&list=PL7NDvV6PnYODxmMU4-E4hpLkvhG3mP4u_<br>
 
 ### Containers Docker e Kubernets
-
-### Burpsuite
-
-### Programação
-> https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&pp=iAQB<br>
+> https://www.youtube.com/watch?v=c2y_yz9B6_M&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4<br>
+> https://www.youtube.com/watch?v=8MJWke19g8U<br>
+> https://www.youtube.com/watch?v=np_vyd7QlXk<br>
+> https://www.youtube.com/watch?v=IeB9_PSGp6k&pp=ygUPY3Vyc28gS3ViZXJuZXRz<br>
+> https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs<br>
+> https://www.youtube.com/playlist?list=PLnPZ9TE1Tj4CpbmTsTgqVpRG0hIgHXsaX<br>
 
 ### Python
+> https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0<br>
 
 ### JS
+> https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm<br>
 
 ### HTML
+> https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n<br>
 
 ### GO
+> https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg<br>
+
