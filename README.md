@@ -20,7 +20,7 @@
 ### XDR - Extended Detection and Response
 > [XDR TREND MICRO VISION ONE - Trend Micro Brasil](https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUMY3Vyc28gZGUgZWRy)<br>
 > [Webinar: Worry Free XDR - Detecção e Correlação de Ameaças Avançadas - Trend Micro Brasil](https://www.youtube.com/watch?v=mGGQzLYxUNs)<br>
-> [](https://www.youtube.com/watch?v=ZGjFiGG3Hh0)<br>
+> [Maximizando a segurança com Secureworks XDR - VNX Partners](https://www.youtube.com/watch?v=ZGjFiGG3Hh0)<br>
 
 ### Security Web gateway
 > [O que é um gateway de web seguro (SWG)? - Conteudo em texto](https://www.cloudflare.com/pt-br/learning/access-management/what-is-a-secure-web-gateway/)<br>
@@ -33,11 +33,11 @@
 
 ### WAF - Web Application Firewall
 > [WAF: o que é e como funciona - Infinite Cloud](https://www.youtube.com/watch?v=gGg2czGR6H4)<br>
-> [](https://www.youtube.com/watch?v=VihXUG3Bgoc&pp=ygUDV0FG)<br>
-> [](https://www.youtube.com/watch?v=5W7coOHZPbs&pp=ygUDV0FG)<br>
+> [AWS WAF - Protegendo aplicações WEB - Cloud Treinamentos](https://www.youtube.com/watch?v=5W7coOHZPbs&pp=ygUJY3Vyc28gd2Fm)<br>
+> [Como proteger Aplicações Web com Web Application Firewall (WAF) no Azure - Guilherme Maia](https://www.youtube.com/watch?v=3sYhBLCRdY4)<br>
 
 ### Redes Microsoft
-> [](https://www.youtube.com/watch?v=F4W5H8pWHec&pp=ygUPUmVkZXMgTWljcm9zb2Z0)<br>
+> [Melhores práticas de segurança para redes Microsoft - Mundo TI Brasil](https://www.youtube.com/watch?v=F4W5H8pWHec&pp=ygUPUmVkZXMgTWljcm9zb2Z0)<br>
 > [](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)<br>
 
 ### Firewall
