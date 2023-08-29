@@ -38,28 +38,26 @@
 
 ### Redes Microsoft
 > [Melhores práticas de segurança para redes Microsoft - Mundo TI Brasil](https://www.youtube.com/watch?v=F4W5H8pWHec&pp=ygUPUmVkZXMgTWljcm9zb2Z0)<br>
-> [](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)<br>
 
 ### Firewall
-> [](https://www.youtube.com/watch?v=mIwxvquY14Y&pp=ygURY3Vyc28gZGUgZmlyZXdhbGw%3D)<br>
-> [](https://www.youtube.com/watch?v=vCLauJdf9g8&pp=ygURY3Vyc28gZGUgZmlyZXdhbGw%3D)<br>
-> [](https://www.youtube.com/watch?v=zWpwaarQ11w&list=PLAZ9U7MSl5m_SuvPQZh6mSar0iTwAHnmH)<br>
-> [](https://www.youtube.com/playlist?list=PLFajyb7NamFDsGaj09kdTHX3T9GMPTNA0)<br>
-> [](https://www.youtube.com/watch?v=W4Wsuf8L4ak&list=PL2EbCLtbwa4nZlZCptc3afxlVep9dVp0O&pp=iAQB)<br>
-> [](https://www.youtube.com/watch?v=wQ3_exlS_EM&list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ)<br>
+> [Aulão de Firewall - Redes Brasil](https://www.youtube.com/watch?v=mIwxvquY14Y&pp=ygURY3Vyc28gZGUgZmlyZXdhbGw%3D)<br>
+> [Mikrotik curso completo - Leonardo Vieira](https://www.youtube.com/playlist?list=PLD53z3_SAbssgcblXwxqXgaywLAN7y68h)<br>
+> [Curso pfSense 2022 - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFDsGaj09kdTHX3T9GMPTNA0)<br>
+> [OPNsense - TI na Real](https://www.youtube.com/watch?v=W4Wsuf8L4ak&list=PL2EbCLtbwa4nZlZCptc3afxlVep9dVp0O&pp=iAQB)<br>
+> [Construindo uma Rede segura com Sophos - Fagner Nascimento](https://www.youtube.com/watch?v=wQ3_exlS_EM&list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ)<br>
 
 ### Proxy
-> [](https://www.youtube.com/watch?v=oarEXZuEPL4&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
-> [](https://www.youtube.com/watch?v=TFWCNWjZk-Q&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
+> [Entendendo como um Proxy Linux funciona - Vagner Fonseca](https://www.youtube.com/watch?v=oarEXZuEPL4&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
+> [Uma introdução ao Proxy SQUID | Servidor Proxy no Linux - Vagner Fonseca](https://www.youtube.com/watch?v=TFWCNWjZk-Q&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
 
 ### SQL
-> [](https://www.youtube.com/watch?v=G7bMwefn8RQ&pp=ygUJY3Vyc28gc3Fs)<br>
-> [](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)<br>
-> [](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)<br>
+> [Curso SQL Completo 2023 [Iniciantes] + Desafios + Muita Prática - Dev Aprender | Jhonatan de Souza](https://www.youtube.com/watch?v=G7bMwefn8RQ&pp=ygUJY3Vyc28gc3Fs)<br>
+> [Curso de SQL com MySQL (Completo) - Otávio Miranda](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)<br>
+> [Curso de Banco de Dados MySQL - Curso em Vídeo](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)<br>
 
 ### Thread Prevention
-> [](https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
-> [](https://www.youtube.com/watch?v=5mQzwpf94sE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
+> [Threat Hunting Process e o Método Investigativo - Renato Fontana](https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
+> [Avaliações de Segurança - Threat Hunting e Varreduras de Vulnerabilidades - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=5mQzwpf94sE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
 
 ### Web Filter
 > [](https://www.youtube.com/watch?v=OrkiQK0c4ao&pp=ygUKV2ViIEZpbHRlcg%3D%3D )<br>
