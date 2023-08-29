@@ -60,8 +60,8 @@
 > [Avaliações de Segurança - Threat Hunting e Varreduras de Vulnerabilidades - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=5mQzwpf94sE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
 
 ### Web Filter
-> [](https://www.youtube.com/watch?v=OrkiQK0c4ao&pp=ygUKV2ViIEZpbHRlcg%3D%3D )<br>
-> [](https://www.youtube.com/watch?v=8CB5jXXg43Q&pp=ygUKV2ViIEZpbHRlcg%3D%3D )<br>
+> [FORTIGATE - CONFIGURANDO WEB FILTER - Virtual Lab Network](https://www.youtube.com/watch?v=OrkiQK0c4ao&pp=ygUKV2ViIEZpbHRlcg%3D%3D)<br>
+> [](https://www.youtube.com/watch?v=8CB5jXXg43Q&pp=ygUKV2ViIEZpbHRlcg%3D%3D)<br>
 
 ### ISO 27001, 27002 e 31000
 > [](https://www.youtube.com/playlist?list=PLPmRk_xSwrYSMs2-d1rBn4skMQFc4YfB0)<br>
