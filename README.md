@@ -1,11 +1,10 @@
 # Meu plano de estudos
 
 ### Github
-> https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV<br>
-> https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA<br>
+> [Curso de Git + GitHub 2023 - Pietro Martins De Oliveira](https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV)<br>
+> [Curso de Git e GitHub sem usar comandos no terminal - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)<br>
 
 ### EPP - Endpoint Protection Plataform
-> https://www.youtube.com/watch?v=pbp-L2DYxN0<br>
 > https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50<br>
 
 ### EDR - Endpoint Detection and Response
