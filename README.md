@@ -55,30 +55,38 @@
 > [Curso de SQL com MySQL (Completo) - Otávio Miranda](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)<br>
 > [Curso de Banco de Dados MySQL - Curso em Vídeo](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)<br>
 
+### Inteligencia e Defesa Cibernética
+> [Cyber Defense e Threat Intelligence](https://www.youtube.com/watch?v=BvSdA4JC3bk&list=PL1-VHUdOXEbqLzvf2e4lh8LrSTQ221Eow)<br>
+
 ### Thread Prevention
 > [Threat Hunting Process e o Método Investigativo - Renato Fontana](https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
 > [Avaliações de Segurança - Threat Hunting e Varreduras de Vulnerabilidades - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=5mQzwpf94sE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
 
+
 ### Web Filter
 > [FORTIGATE - CONFIGURANDO WEB FILTER - Virtual Lab Network](https://www.youtube.com/watch?v=OrkiQK0c4ao&pp=ygUKV2ViIEZpbHRlcg%3D%3D)<br>
-> [](https://www.youtube.com/watch?v=8CB5jXXg43Q&pp=ygUKV2ViIEZpbHRlcg%3D%3D)<br>
+> [DICA PARA TESTAR SEU WEBFILTER - Matheus Leal](https://www.youtube.com/watch?v=8CB5jXXg43Q)<br>
 
 ### ISO 27001, 27002 e 31000
-> [](https://www.youtube.com/playlist?list=PLPmRk_xSwrYSMs2-d1rBn4skMQFc4YfB0)<br>
-> [](https://www.youtube.com/watch?v=fNYxsQoAfVI&pp=ygU5Y3Vyc28gR2VzdMOjbyBkZSBpbmNpZGVudGVzIGRlIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv)<br>
-> [](https://www.pensarcursos.com.br/curso/gestao-de-riscos-principios-e-diretrizes-da-iso-31000)<br>
+> [Playlist ISO 27001 e 27002 - Portal GSTI](https://www.youtube.com/playlist?list=PLPmRk_xSwrYRqTwyFFKg4moKgfrWxYsOU)<br>
+> [ISO 27002:2022 - Gerenciamento de Incidentes e Segurança da Informação - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=fNYxsQoAfVI&pp=ygU5Y3Vyc28gR2VzdMOjbyBkZSBpbmNpZGVudGVzIGRlIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv)<br>
+> [Curso Gratuito Online Gestão de Riscos: Princípios e Diretrizes da ISO 31000](https://www.pensarcursos.com.br/curso/gestao-de-riscos-principios-e-diretrizes-da-iso-31000)<br>
+
+### Governança, Itil e Cobit
+> [Playlist Governança e CobiT - Prof. Adriano Martins Antonio](https://www.youtube.com/playlist?list=PLcEPi2yN6Z0KF911O5S5kXtPxSfwviGat)<br>
+> [Playlist ITIL 4 e ITSM - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=QUjw2QKEuF8&list=PLcEPi2yN6Z0KG9nQa-Xv33tURfEOw53NR)<br>
 
 ### GDPR - Regulamento Geral sobre a Proteção de Dados
-> [](https://www.youtube.com/watch?v=egGvTgk3HH8)<br>
+> [O que você precisa saber sobre o GDPR! - Módulo Security Solutions](https://www.youtube.com/watch?v=egGvTgk3HH8)<br>
 
 ### Soluções de segurança baseadas em palo alto
-> [](https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB)<br>
+> [Curso Palo Alto Networks - TI na Real](https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB)<br>
 
-### Frameworks NIST, MITRE e ATT@CK
-> [](https://www.youtube.com/watch?v=Q8e-gM142bw&pp=ygUORnJhbWV3b3JrIE5JU1Q%3D)<br>
-> [](https://www.youtube.com/watch?v=ZuMXfucrRQI)<br>
-> [](https://www.youtube.com/watch?v=oOtH6IX1pvU)<br>
-> [](https://www.youtube.com/watch?v=h4IQMhYCbxY)<br>
+### Frameworks NIST, MITRE e ATT&CK
+> [Entendendo o NIST CyberSecurity Framework - DARYUS Talks](https://www.youtube.com/watch?v=Q8e-gM142bw&pp=ygUORnJhbWV3b3JrIE5JU1Q%3D)<br>
+> [O que é o MITRE ATT&CK? TTPs & A Pirâmide da Dor - Parte 1/3 - Flávio Costa - Segurança Descomplicada](https://www.youtube.com/watch?v=TYlx5JSLC-s)<br>
+> [MITRE ATT&CK: Principais Casos de Uso, Matrizes e Navigator - Parte 2/3 - Flávio Costa - Segurança Descomplicada ](https://www.youtube.com/watch?v=OO7oUGzaw3E)<br>
+> [MITRE ATT&CK: E o Portfólio Cisco Secure - Parte 3/3 - Flávio Costa - Segurança Descomplicada ](https://www.youtube.com/watch?v=9YD4c5LQ-u8)<br>
 
 ### Microsserviços
 > [](https://www.youtube.com/watch?v=eN8dFfTrEtQ&pp=ygUPbWljcm9zc2VydmnDp29z)<br>
@@ -92,6 +100,9 @@
 > [](https://www.youtube.com/watch?v=GPptIhzPBro&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D)<br>
 > [](https://www.youtube.com/watch?v=f_a72WWROKI&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D)<br>
 > [](https://www.youtube.com/watch?v=OnzIUGHl9no&pp=ygUQY3Vyc28gUHJvbWV0aGV1cw%3D%3D)<br>
+
+### LGPD - Lei Geral de Proteção de Dados
+> [Playlist LGPD - Módulo Security Solutions](https://www.youtube.com/watch?v=OSFc9Kejdtg&list=PL2sbta06njJvZRKZi8y9EG4Sp-9TFl0cy)<br>
 
 ### NoSQL
 > [](https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj)<br>
@@ -133,7 +144,12 @@
 > [](https://www.youtube.com/playlist?list=PLfoplNRdP0qP8GHjq_gRdhxKuJejyTnVc)<br>
 > [](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/)<br>
 > [](https://desecsecurity.com/curso/introducao-pentest)<br>
-> [](https://academiadeforensedigital.com.br/curso-de-pentest-da-academia-de-forense-digital/)<br>
+> [](https://academiadedigital.com.br/curso-de-pentest-da-academia-de-forense-digital/)<br>
+
+### Pericia Forence e Investigação Cibernética
+> [Maratona Forence e Investigação Cibernética - DARYUS Talks](https://www.youtube.com/watch?v=ESyY9lraKAQ&list=PL1-VHUdOXEbrIMeVpYU_EBJEs_pWbTpmU&pp=iAQB)<br>
+> [Investigação Forense em IoT - DARYUS Talks](https://www.youtube.com/watch?v=zpIp5S5pmD0&list=PL1-VHUdOXEbpudXQsEwIF_JiS4Or0KqAn)<br>
+> [Investigação Forense 2019 - DARYUS Talks](https://www.youtube.com/watch?v=OHx0VT4x2jM&list=PL1-VHUdOXEbo1qsH2GF1_x4ze4LnmlS6S)<br>
 
 ### Trend Micro 
 > [](https://www.youtube.com/watch?v=dNbv44CCKcs&pp=ygUXVHJlbmQgTWljcm8gZmVycmFtZW50YXM%3D)<br>
