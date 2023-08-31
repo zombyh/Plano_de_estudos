@@ -123,26 +123,24 @@
 > [Proteção contra ransomware e recuperação de dados com CommVault - ÁTRIO TI](https://www.youtube.com/watch?v=KJX7U-Ujs8U&pp=ygUWY3Vyc28gQmFja3VwIENvbW12YXVsdA%3D%3D)<br>
 
 ### DLP - Data loss prevention
-> [](https://www.youtube.com/watch?v=VHeX3D2WOUc&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D)<br>
-> [](https://www.youtube.com/watch?v=n4x95P96x40&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D)<br>
+> [Webinar DLP – DATA LOSS PREVENTION - Brasiliano INTERISK](https://www.youtube.com/watch?v=VHeX3D2WOUc&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D)<br>
+> [Webinar: Proteja seus dados com o DLP (Data loss prevention) - Lattine Group](https://www.youtube.com/watch?v=n4x95P96x40&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D)<br>
 
 ### Sistema de Prevenção de Intrusão (IPS)
-> [](https://www.youtube.com/watch?v=UcVlmXVTKU8&list=PL2EbCLtbwa4mYKpLneByRAwvqzq7Jpeur&pp=iAQB)<br>
-> [](https://www.youtube.com/watch?v=a_Vp0ca4G2g&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D)<br>
-> [](https://www.youtube.com/watch?v=FiUE1SomFIU&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D)<br>
+> [IDS / IPS - SegInfoBrasil](https://www.youtube.com/watch?v=a_Vp0ca4G2g&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D)<br>
+> [Sistema de intrusão da Hikvision - Papo Segurança](https://www.youtube.com/watch?v=FiUE1SomFIU&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D)<br>
 
 ### Mapeamento de riscos,  ameaças, vulnerabilidades e recuperação em incidentes
-> [](https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS)<br>
-> [](https://www.youtube.com/watch?v=7f3I58SBHMY&pp=ygU2cmVjdXBlcmHDp8OjbyBlbSBpbmNpZGVudGVzIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv)<br>
+> [Curso Grátis de Gestão de Riscos - ProdutividadeMaxima](https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS)<br>
+> [Identificação, Combate e Resposta a Incidentes de Segurança - Ricardo Kléber IFRN](https://www.youtube.com/watch?v=7f3I58SBHMY&pp=ygU2cmVjdXBlcmHDp8OjbyBlbSBpbmNpZGVudGVzIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv)<br>
 
 ### Pentest
-> [](https://www.youtube.com/@hackereticoo/videos)<br>
-> [](https://www.youtube.com/watch?v=eXKVqGc6bZg&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv)<br>
-> [](https://www.youtube.com/watch?v=RIQsengnsZQ&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv)<br>
-> [](https://www.youtube.com/playlist?list=PLfoplNRdP0qP8GHjq_gRdhxKuJejyTnVc)<br>
-> [](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/)<br>
-> [](https://desecsecurity.com/curso/introducao-pentest)<br>
-> [](https://academiadedigital.com.br/curso-de-pentest-da-academia-de-forense-digital/)<br>
+> [Canal HACKER ÉTICO TECNICAS DE INVASÃO](https://www.youtube.com/@hackereticoo/videos)<br>
+> [Como fazer um teste de penetração do zero (Pentest Completo) -Zero Cool BR](https://www.youtube.com/watch?v=eXKVqGc6bZg&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv)<br>
+> [Pentest - Como Funciona o Teste de Invasão? - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=RIQsengnsZQ&pp=ygUSVGVzdGUgZGUgaW50cnVzw6Nv)<br>
+> [Curso WiFi Hacking - Ethical Hacker - Red Team Brasil](https://www.youtube.com/playlist?list=PLfoplNRdP0qP8GHjq_gRdhxKuJejyTnVc)<br>
+> [Introdução ao Hacking e Pentest 2.0 - Com certificado](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/)<br>
+> [INTRODUÇÃO AO PENTEST NA PRÁTICA - Com certificado](https://desecsecurity.com/curso/introducao-pentest)<br>
 
 ### Pericia Forence e Investigação Cibernética
 > [Maratona Forence e Investigação Cibernética - DARYUS Talks](https://www.youtube.com/watch?v=ESyY9lraKAQ&list=PL1-VHUdOXEbrIMeVpYU_EBJEs_pWbTpmU&pp=iAQB)<br>
