@@ -117,11 +117,10 @@
 > [Curso Active Directory Rápido - SysAdminBr](https://www.youtube.com/watch?v=-pKKWLsIehI&list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR)<br>
 > [Curso Windows Server 2019 - Iago Ferreira TI](https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j)<br>
 
-### Sistemas de Backup Veeam,  Acronis, Commvault, DataProtector
-> [](https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt)<br>
-> [](https://www.youtube.com/watch?v=zGo8ffuFr8g&pp=ygUaU2lzdGVtYXMgZGUgQmFja3VwIEFjcm9uaXM%3D)<br>
-> [](https://www.youtube.com/watch?v=KJX7U-Ujs8U&pp=ygUWY3Vyc28gQmFja3VwIENvbW12YXVsdA%3D%3D)<br>
-> [](https://www.youtube.com/watch?v=JTHlvXwB4zM&pp=ygUaY3Vyc28gQmFja3VwIERhdGFQcm90ZWN0b3I%3D)<br>
+### Sistemas de Backup Veeam,  Acronis e Commvault
+> [Green Talks - Veeam: Muito além do backup e replicação! - VUG Brasil](https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt)<br>
+> [Webinar - Acronis Configuração Backup - Completo - Backup Garantido](https://www.youtube.com/watch?v=zGo8ffuFr8g&pp=ygUaU2lzdGVtYXMgZGUgQmFja3VwIEFjcm9uaXM%3D)<br>
+> [Proteção contra ransomware e recuperação de dados com CommVault - ÁTRIO TI](https://www.youtube.com/watch?v=KJX7U-Ujs8U&pp=ygUWY3Vyc28gQmFja3VwIENvbW12YXVsdA%3D%3D)<br>
 
 ### DLP - Data loss prevention
 > [](https://www.youtube.com/watch?v=VHeX3D2WOUc&pp=ygUaY3Vyc28gRGF0YSBsb3NzIHByZXZlbnRpb24%3D)<br>
