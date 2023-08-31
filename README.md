@@ -89,34 +89,33 @@
 > [MITRE ATT&CK: E o Portfólio Cisco Secure - Parte 3/3 - Flávio Costa - Segurança Descomplicada ](https://www.youtube.com/watch?v=9YD4c5LQ-u8)<br>
 
 ### Microsserviços
-> [](https://www.youtube.com/watch?v=eN8dFfTrEtQ&pp=ygUPbWljcm9zc2VydmnDp29z)<br>
-> [](https://www.youtube.com/watch?v=Zu-D9A_L5Qo&pp=ygUPbWljcm9zc2VydmnDp29z)<br>
-> [](https://www.youtube.com/watch?v=33LxCvyU_FU&pp=ygUPbWljcm9zc2VydmnDp29z)<br>
+> [O que são Microsserviços? (Microservices) - Alura](https://www.youtube.com/watch?v=jSnLOoGjQ80)<br>
+> [Microsserviços: O que restou. Erros e acertos - Full Cycle](https://www.youtube.com/watch?v=Zu-D9A_L5Qo&pp=ygUPbWljcm9zc2VydmnDp29z)<br>
+> [Entendendo o mundo dos Microsserviços com Rodrigo Branas - Full Cycle](https://www.youtube.com/watch?v=33LxCvyU_FU)<br>
 
 ### Zabbix, Grafana e Prometheus
-> [](https://www.youtube.com/playlist?list=PLigQ9zMmlIqIcIq3vUfpVeRTIWy5E0xX-)<br>
-> [](https://www.youtube.com/playlist?list=PL2g0xWOCcjdETo6NRmoAZKHqVhNWuFCFv)<br>
-> [](https://www.youtube.com/watch?v=GQ8o9WiS9Ew&list=PLCFBm2AvdHoBn7lbiP6d8ef1l74hAjXvo)<br>
-> [](https://www.youtube.com/watch?v=GPptIhzPBro&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D)<br>
-> [](https://www.youtube.com/watch?v=f_a72WWROKI&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D)<br>
-> [](https://www.youtube.com/watch?v=OnzIUGHl9no&pp=ygUQY3Vyc28gUHJvbWV0aGV1cw%3D%3D)<br>
+> [Curso Zabbix - Simplificando Redes](https://www.youtube.com/playlist?list=PLigQ9zMmlIqIcIq3vUfpVeRTIWy5E0xX-)<br>
+> [Curso | Zabbix - NB Telecom](https://www.youtube.com/playlist?list=PL2g0xWOCcjdETo6NRmoAZKHqVhNWuFCFv)<br>
+> [Treinamento base Zabbix 6.0 - Magno Monte Cerqueira](https://www.youtube.com/playlist?list=PLCFBm2AvdHoBn7lbiP6d8ef1l74hAjXvo)<br>
+> [Introdução ao Prometheus e Grafana: Monitoramento inteligente de aplicações - Full Cycle](https://www.youtube.com/watch?v=GPptIhzPBro&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D)<br>
+> [Treinamento de Introdução ao Monitoramento da Rede com Zabbix e Grafana (2021) - Bee Solutions](https://www.youtube.com/watch?v=f_a72WWROKI&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D)<br>
 
 ### LGPD - Lei Geral de Proteção de Dados
 > [Playlist LGPD - Módulo Security Solutions](https://www.youtube.com/watch?v=OSFc9Kejdtg&list=PL2sbta06njJvZRKZi8y9EG4Sp-9TFl0cy)<br>
 
 ### NoSQL
-> [](https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj)<br>
+> [Introdução ao NoSQL-MongoDB - Ricardo Leme](https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj)<br>
+> [Curso de MongoDB fundamental | Aprenda MongoDB em 1 hora - 2021](https://www.youtube.com/watch?v=x9tC0eK0GtA)<br>
 
-### Automação de ambiente Terraform, Ansible e Jboss
-> [](https://www.youtube.com/watch?v=bIPF_hzmQGE&list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP)<br>
-> [](https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa)<br>
-> [](https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX)<br>
-> [](https://www.youtube.com/watch?v=GwCzr5WYQfQ&list=PLL2bR7L3G2a56lkv8MrAd64gTHNAj7-GL)<br>
+### Automação de ambiente Terraform e Ansible
+> [Curso de Terraform com AWS - Cleber Gasparoto](https://www.youtube.com/watch?v=bIPF_hzmQGE&list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP)<br>
+> [Minicurso Terraform - Iago Ferreira TI](https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa)<br>
+> [Curso de Ansible - Mário Santana](https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX)<br>
 
 ### Windows Server
-> [](https://www.youtube.com/watch?v=3NQxoDOjeoQ&list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk)<br>
-> [](https://www.youtube.com/watch?v=-pKKWLsIehI&list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR)<br>
-> [](https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j)<br>
+> [15 Políticas de Grupo (GPO) Essenciais - SysAdminBr](https://www.youtube.com/watch?v=3NQxoDOjeoQ&list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk)<br>
+> [Curso Active Directory Rápido - SysAdminBr](https://www.youtube.com/watch?v=-pKKWLsIehI&list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR)<br>
+> [Curso Windows Server 2019 - Iago Ferreira TI](https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j)<br>
 
 ### Sistemas de Backup Veeam,  Acronis, Commvault, DataProtector
 > [](https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt)<br>
