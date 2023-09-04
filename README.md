@@ -148,16 +148,12 @@
 > [Investigação Forense 2019 - DARYUS Talks](https://www.youtube.com/watch?v=OHx0VT4x2jM&list=PL1-VHUdOXEbo1qsH2GF1_x4ze4LnmlS6S)<br>
 
 ### Trend Micro 
-> [](https://www.youtube.com/watch?v=dNbv44CCKcs&pp=ygUXVHJlbmQgTWljcm8gZmVycmFtZW50YXM%3D)<br>
-> [](https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUWdmlzaW9uIG9uZSB0cmVuZCBtaWNybw%3D%3D)<br>
-> [](https://www.youtube.com/playlist?list=PLcaWiSBV1nWqQA2sOcfOFjZTYUJZEAQK2)<br>
-> [](https://www.youtube.com/watch?v=t7QhVzsHDqQ&list=PLcaWiSBV1nWp6GMQOe7Mb-qqgzR-6juPm&pp=iAQB)<br>
-> [](https://www.youtube.com/watch?v=9NQA_mjbdNY&list=PLcaWiSBV1nWoo3hkLJ-Kz-BIKKLWpTA1R&pp=iAQB)<br>
+> [DEMO - XDR TREND MICRO VISION ONE - Trend Micro Brasil](https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUWdmlzaW9uIG9uZSB0cmVuZCBtaWNybw%3D%3D)<br>
+> [REDEFININDO A SEGURANÇA DE ENDPOINTS - TREND MICRO - Trend Micro Brasil](https://www.youtube.com/playlist?list=PLcaWiSBV1nWqQA2sOcfOFjZTYUJZEAQK2)<br>
 
-### Virtualização VMWARE, Citrix 
-> [](https://www.youtube.com/watch?v=1Y6haDEtEHg&list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u&pp=iAQB)<br>
-> [](https://www.youtube.com/watch?v=q4zb0Y19L_0&list=PLuQ_wGJOQewbpZtpgUQw74Od3mRkS0Ntu)<br>
-> [](https://www.youtube.com/watch?v=P2FrsVuIVCU&list=PLfQY5-FaMnQeR_0z22WkoFe9ZHFO9SADg)<br>
+### Virtualização VMWARE e Proxmox
+> [Curso VMWARE - TI na Real](https://www.youtube.com/watch?v=1Y6haDEtEHg&list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u&pp=iAQB)<br>
+> [](https://www.youtube.com/playlist?list=PLq5308RJX4FucnvySF3QqWWezcoihh6bL)<br>
 
 ### Security Operation Center (SOC)
 > [](https://www.youtube.com/watch?v=jHr6o8_sKZo&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D)<br>
