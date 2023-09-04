@@ -38,8 +38,8 @@
 
 ### Redes
 > [Melhores práticas de segurança para redes Microsoft - Mundo TI Brasil](https://www.youtube.com/watch?v=F4W5H8pWHec&pp=ygUPUmVkZXMgTWljcm9zb2Z0)<br>
-> [Cursos de Fundamentos de Redes de Computadores e Internet](https://www.youtube.com/watch?v=YbRHeRFYyCQ&list=PLAp37wMSBouDdpuuYhZfEK9oH0qk0IANb)<br>
-> [Curso de Redes com MikroTik](https://www.youtube.com/playlist?list=PL1HkL1MnPEeVMEVRqUqQIYTBEibXJDiYK)<br>
+> [Cursos de Fundamentos de Redes de Computadores e Internet - Hardware Redes Brasil](https://www.youtube.com/watch?v=YbRHeRFYyCQ&list=PLAp37wMSBouDdpuuYhZfEK9oH0qk0IANb)<br>
+> [Curso de Redes com MikroTik - Redes Brasil](https://www.youtube.com/playlist?list=PL1HkL1MnPEeVMEVRqUqQIYTBEibXJDiYK)<br>
 
 ### Firewall
 > [Aulão de Firewall - Redes Brasil](https://www.youtube.com/watch?v=mIwxvquY14Y&pp=ygURY3Vyc28gZGUgZmlyZXdhbGw%3D)<br>
@@ -63,7 +63,6 @@
 ### Thread Prevention
 > [Threat Hunting Process e o Método Investigativo - Renato Fontana](https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
 > [Avaliações de Segurança - Threat Hunting e Varreduras de Vulnerabilidades - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=5mQzwpf94sE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
-
 
 ### Web Filter
 > [FORTIGATE - CONFIGURANDO WEB FILTER - Virtual Lab Network](https://www.youtube.com/watch?v=OrkiQK0c4ao&pp=ygUKV2ViIEZpbHRlcg%3D%3D)<br>
@@ -179,13 +178,11 @@
 
 ### Configuração de Switches e Aps
 > [Switch Gerenciável TP-Link TL-SG3428 (unboxing e configurações) - Gilson Telecom](https://www.youtube.com/watch?v=qtmRnF_K7wk)<br>
-> [Curso de Cisco Packet Tracer](https://www.youtube.com/playlist?list=PLAp37wMSBouDeR3lBP2SsEe6GC5YW2UIg)<br>
+> [Curso de Cisco Packet Tracer - Hardware Redes Brasil](https://www.youtube.com/playlist?list=PLAp37wMSBouDeR3lBP2SsEe6GC5YW2UIg)<br>
 > [Curso CCNP - SWITCH - Gustavo Kalau](https://www.youtube.com/playlist?list=PL6BTdBqzl1obFQmi3as2_xEh6Dob2Qhk3)<br>
 
-
-
 ### SDWAN, MPLS, OSPF, BGP
-> [](https://www.youtube.com/watch?v=d6L4F6gBdM4&list=PL6BTdBqzl1oZ7csTsAX1e-tn7islHEEII&pp=iAQB)<br>
+> [Workshop SD-WAN - Gustavo Kalau](https://www.youtube.com/playlist?list=PL6BTdBqzl1oZ7csTsAX1e-tn7islHEEII)<br>
 > [](https://www.youtube.com/watch?v=FPzTeqibSok&list=PL6BTdBqzl1oarw80kp2QCxg4NxNtSlCzZ)<br>
 > [](https://www.youtube.com/watch?v=VryYINc7180&list=PL6BTdBqzl1oZ2m542ZTkERux6U-Gk280L&pp=iAQB)<br>
 > [](https://www.youtube.com/watch?v=N7CymF8f-JU&list=PL6BTdBqzl1oa_utISKxnJf6AWvjAq-dCb&pp=iAQB)<br>
