@@ -36,8 +36,10 @@
 > [AWS WAF - Protegendo aplicações WEB - Cloud Treinamentos](https://www.youtube.com/watch?v=5W7coOHZPbs&pp=ygUJY3Vyc28gd2Fm)<br>
 > [Como proteger Aplicações Web com Web Application Firewall (WAF) no Azure - Guilherme Maia](https://www.youtube.com/watch?v=3sYhBLCRdY4)<br>
 
-### Redes Microsoft
+### Redes
 > [Melhores práticas de segurança para redes Microsoft - Mundo TI Brasil](https://www.youtube.com/watch?v=F4W5H8pWHec&pp=ygUPUmVkZXMgTWljcm9zb2Z0)<br>
+> [Cursos de Fundamentos de Redes de Computadores e Internet](https://www.youtube.com/watch?v=YbRHeRFYyCQ&list=PLAp37wMSBouDdpuuYhZfEK9oH0qk0IANb)<br>
+> [Curso de Redes com MikroTik](https://www.youtube.com/playlist?list=PL1HkL1MnPEeVMEVRqUqQIYTBEibXJDiYK)<br>
 
 ### Firewall
 > [Aulão de Firewall - Redes Brasil](https://www.youtube.com/watch?v=mIwxvquY14Y&pp=ygURY3Vyc28gZGUgZmlyZXdhbGw%3D)<br>
@@ -153,32 +155,34 @@
 
 ### Virtualização VMWARE e Proxmox
 > [Curso VMWARE - TI na Real](https://www.youtube.com/watch?v=1Y6haDEtEHg&list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u&pp=iAQB)<br>
-> [](https://www.youtube.com/playlist?list=PLq5308RJX4FucnvySF3QqWWezcoihh6bL)<br>
+> [Curso Completo Proxmox versões 3, 4 e 5 - Tecnoapp Soluções](https://www.youtube.com/playlist?list=PLp8CLnJz1dTFIB5h_us0kx5vu3yviBtf9)<br>
 
 ### Security Operation Center (SOC)
-> [](https://www.youtube.com/watch?v=jHr6o8_sKZo&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D)<br>
-> [](https://www.youtube.com/watch?v=PheuitelQe0&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D)<br>
-> [](https://www.youtube.com/watch?v=dGYq6q7HsEo&list=PLBS8anMTdp4i9RNuxRo6gwbSNhlq6zsdg&pp=iAQB)<br>
+> [Live SOC e CSOC Security Operations 101 - GoHacking](https://www.youtube.com/watch?v=jHr6o8_sKZo&pp=ygUfY3Vyc28gU2VjdXJpdHkgT3BlcmF0aW9uIENlbnRlcg%3D%3D)<br>
+> [SOC? O QUE É? FERRAMENTAS PARA AMBIENTE SOC. - Latinoware](https://www.youtube.com/watch?v=N2EIQsXQMBM)<br>
 
 ### Antivirus corporativo
-> [](https://www.youtube.com/watch?v=_elV2XToHwM&pp=ygUVQW50aXZpcnVzIGNvcnBvcmF0aXZv)<br>
+> [LIVE - ANTIVÍRUS GRATUITO, SERÁ QUE FUNCIONA? - Solid Ti](https://www.youtube.com/watch?v=ZzBZBh3e4_M)<br>
+> [Webinar - Mais que um antivírus: Descubra o poder do Microsoft Defender para sua empresa - Lattine Group](https://www.youtube.com/watch?v=L0leGpkYCqc)<br>
+> [Destrinchando o Kaspersky Total Security 2022 para Windows - Mauricio Cassemiro](https://www.youtube.com/watch?v=jXxomYGF9i0)<br>
 
 ### Cyberark
-> [](https://www.youtube.com/watch?v=YAvSo5s7wu4&pp=ygUIQ3liZXJhcms%3D)<br>
-> [](https://www.youtube.com/watch?v=mPbyIRPGzAA&pp=ygUIQ3liZXJhcms%3D)<br>
+> [Webinar Cyberark - Participação Negreiros - CLM | Tech](https://www.youtube.com/watch?v=YAvSo5s7wu4&pp=ygUIQ3liZXJhcms%3D)<br>
+> [CyberArk - Identity - Apresentacao e Demostração - Tiago Bigode](https://www.youtube.com/watch?v=mPbyIRPGzAA&pp=ygUIQ3liZXJhcms%3D)<br>
 
 ### Azure, AWS e Google Cloud
-> [](https://www.youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC)<br>
-> [](https://www.youtube.com/playlist?list=PLwftZeDnOzt0quETXYfGjfi2AcpeGX-7i)<br>
-> [](https://www.youtube.com/playlist?list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm)<br>
-> [](https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz)<br>
-> [](https://www.youtube.com/playlist?list=PLCOuhjvAlGW9Jr_lsGXFQBgIKyQtJr_Lq)<br>
-> [](https://www.youtube.com/playlist?list=PLCOuhjvAlGW9PAIFZrVjKneJ9cnIGEulp)<br>
+> [AZ-900 - Curso Oficial Microsoft - Microsoft Azure Fundamentals - Henrique Eduardo Souza](https://www.youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC)<br>
+> [Curso Microsoft Azure - Ray Carneiro](https://www.youtube.com/playlist?list=PLwftZeDnOzt0quETXYfGjfi2AcpeGX-7i)<br>
+> [AWS Completo - Do Zero ao Avançado - Mundo da Cloud](https://www.youtube.com/watch?v=4X6VUxYF80o&list=PLtL97Owd1gkQLWMICyxRYeMysHK1S5tYU)<br>
+> [Google Cloud OnBoard - Google Cloud LATAM](https://www.youtube.com/playlist?list=PLCOuhjvAlGW9Jr_lsGXFQBgIKyQtJr_Lq)<br>
+> [Desvendando Google Cloud - Google Cloud LATAM](https://www.youtube.com/playlist?list=PLCOuhjvAlGW9PAIFZrVjKneJ9cnIGEulp)<br>
 
 ### Configuração de Switches e Aps
-> [](https://www.youtube.com/watch?v=YEte1DDucLI&list=PLucm8g_ezqNoXWMJKS31D7kFVd_oTg_kk)<br>
-> [](https://www.youtube.com/watch?v=Y7EeJjQ75_Q&list=PLBl7YWFC3c3uQKjg-YP9WFBChdC3iq2nW)<br>
-> [](https://www.youtube.com/playlist?list=PL6BTdBqzl1obFQmi3as2_xEh6Dob2Qhk3)<br>
+> [Switch Gerenciável TP-Link TL-SG3428 (unboxing e configurações) - Gilson Telecom](https://www.youtube.com/watch?v=qtmRnF_K7wk)<br>
+> [Curso de Cisco Packet Tracer](https://www.youtube.com/playlist?list=PLAp37wMSBouDeR3lBP2SsEe6GC5YW2UIg)<br>
+> [Curso CCNP - SWITCH - Gustavo Kalau](https://www.youtube.com/playlist?list=PL6BTdBqzl1obFQmi3as2_xEh6Dob2Qhk3)<br>
+
+
 
 ### SDWAN, MPLS, OSPF, BGP
 > [](https://www.youtube.com/watch?v=d6L4F6gBdM4&list=PL6BTdBqzl1oZ7csTsAX1e-tn7islHEEII&pp=iAQB)<br>
