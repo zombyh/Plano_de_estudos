@@ -114,9 +114,9 @@
 > [Curso de MongoDB fundamental | Aprenda MongoDB em 1 hora - 2021](https://www.youtube.com/watch?v=x9tC0eK0GtA)<br>
 
 ### Automação de ambiente Terraform e Ansible
-> [Curso de Terraform com AWS - Cleber Gasparoto](https://www.youtube.com/watch?v=bIPF_hzmQGE&list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP)<br>
-> [Minicurso Terraform - Iago Ferreira TI](https://www.youtube.com/watch?v=qpVv_aIpdxc&list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa)<br>
-> [Curso de Ansible - Mário Santana](https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX)<br>
+> [Curso de Terraform com AWS - Cleber Gasparoto](https://www.youtube.com/playlist?list=PLWQmZVQayUUIgSmOj3GPH2BJcn0hOzIaP)<br>
+> [Minicurso Terraform - Iago Ferreira TI](https://www.youtube.com/playlist?list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa)<br>
+> [Curso de Ansible - Mário Santana](https://www.youtube.com/playlist?list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX)<br>
 
 ### Windows Server
 > [15 Políticas de Grupo (GPO) Essenciais - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk)<br>
