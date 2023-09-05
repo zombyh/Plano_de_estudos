@@ -177,7 +177,7 @@
 ### Azure, AWS e Google Cloud
 > [AZ-900 - Curso Oficial Microsoft - Microsoft Azure Fundamentals - Henrique Eduardo Souza](https://www.youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC)<br>
 > [Curso Microsoft Azure - Ray Carneiro](https://www.youtube.com/playlist?list=PLwftZeDnOzt0quETXYfGjfi2AcpeGX-7i)<br>
-> [AWS Completo - Do Zero ao Avançado - Mundo da Cloud](https://www.youtube.com/watch?v=4X6VUxYF80o&list=PLtL97Owd1gkQLWMICyxRYeMysHK1S5tYU)<br>
+> [AWS Completo - Do Zero ao Avançado - Mundo da Cloud](https://www.youtube.com/playlist?list=PLtL97Owd1gkQLWMICyxRYeMysHK1S5tYU)<br>
 > [Google Cloud OnBoard - Google Cloud LATAM](https://www.youtube.com/playlist?list=PLCOuhjvAlGW9Jr_lsGXFQBgIKyQtJr_Lq)<br>
 > [Desvendando Google Cloud - Google Cloud LATAM](https://www.youtube.com/playlist?list=PLCOuhjvAlGW9PAIFZrVjKneJ9cnIGEulp)<br>
 
