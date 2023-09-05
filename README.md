@@ -119,8 +119,8 @@
 > [Curso de Ansible - Mário Santana](https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX)<br>
 
 ### Windows Server
-> [15 Políticas de Grupo (GPO) Essenciais - SysAdminBr](https://www.youtube.com/watch?v=3NQxoDOjeoQ&list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk)<br>
-> [Curso Active Directory Rápido - SysAdminBr](https://www.youtube.com/watch?v=-pKKWLsIehI&list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR)<br>
+> [15 Políticas de Grupo (GPO) Essenciais - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk)<br>
+> [Curso Active Directory Rápido - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR)<br>
 > [Curso Windows Server 2019 - Iago Ferreira TI](https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j)<br>
 
 ### Sistemas de Backup Veeam,  Acronis e Commvault
