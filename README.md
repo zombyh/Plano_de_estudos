@@ -1,5 +1,10 @@
 # Meu plano de estudos
 
+### Segurança da informação
+> [Curso de Segurança da Informação - Módulo 00 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV)<br>
+> [Curso de Segurança da Informação - Módulo 01 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE)<br>
+> [Curso de Segurança da Informação - Módulo 02 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlT599reA1xLkbT83g2gMvI)<br>
+
 ### Github
 > [Curso de Git + GitHub 2023 - Pietro Martins De Oliveira](https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV)<br>
 > [Curso de Git e GitHub sem usar comandos no terminal - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)<br>
@@ -183,30 +188,38 @@
 
 ### SDWAN, MPLS, OSPF, BGP
 > [Workshop SD-WAN - Gustavo Kalau](https://www.youtube.com/playlist?list=PL6BTdBqzl1oZ7csTsAX1e-tn7islHEEII)<br>
-> [](https://www.youtube.com/watch?v=FPzTeqibSok&list=PL6BTdBqzl1oarw80kp2QCxg4NxNtSlCzZ)<br>
-> [](https://www.youtube.com/watch?v=VryYINc7180&list=PL6BTdBqzl1oZ2m542ZTkERux6U-Gk280L&pp=iAQB)<br>
-> [](https://www.youtube.com/watch?v=N7CymF8f-JU&list=PL6BTdBqzl1oa_utISKxnJf6AWvjAq-dCb&pp=iAQB)<br>
+> [Workshop MPLS - Gustavo Kalau](https://www.youtube.com/playlist?list=PL6BTdBqzl1oarw80kp2QCxg4NxNtSlCzZ)<br>
+> [Workshop OSPF - Gustavo Kalau](https://www.youtube.com/playlist?list=PL6BTdBqzl1oZ2m542ZTkERux6U-Gk280L)<br>
+> [Workshop BGP - Gustavo Kalau](https://www.youtube.com/playlist?list=PL6BTdBqzl1oa_utISKxnJf6AWvjAq-dCb)<br>
 
 ### Scrum e Kanban
-> [](https://www.youtube.com/playlist?list=PLRj4UESgCLz1uwaFje483eV8hQiBguW-P)<br>
-> [](https://www.youtube.com/watch?v=244zW43WfM4&list=PL7NDvV6PnYODxmMU4-E4hpLkvhG3mP4u_)<br>
+> [Curso de Scrum - minutoagil](https://www.youtube.com/playlist?list=PLRj4UESgCLz1uwaFje483eV8hQiBguW-P)<br>
+> [Curso FUNDAMENTOS DO MÉTODO KANBAN - CANAL VALOR](https://www.youtube.com/playlist?list=PL7NDvV6PnYODxmMU4-E4hpLkvhG3mP4u_)<br>
 
 ### Containers Docker e Kubernets
-> [](https://www.youtube.com/watch?v=c2y_yz9B6_M&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4)<br>
-> [](https://www.youtube.com/watch?v=8MJWke19g8U)<br>
-> [](https://www.youtube.com/watch?v=np_vyd7QlXk)<br>
-> [](https://www.youtube.com/watch?v=IeB9_PSGp6k&pp=ygUPY3Vyc28gS3ViZXJuZXRz)<br>
-> [](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs)<br>
-> [](https://www.youtube.com/playlist?list=PLnPZ9TE1Tj4CpbmTsTgqVpRG0hIgHXsaX)<br>
+> [Entendendo Funcionamento de Containers - Fabio Akita](https://www.youtube.com/watch?v=85k8se4Zo70)<br>
+> [Aprenda Docker do Zero, tutorial passo a passo - Full Cycle](https://www.youtube.com/watch?v=8MJWke19g8U)<br>
+> [Curso de Docker para iniciantes - aprenda Docker em 1 hora - Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=np_vyd7QlXk)<br>
+> [Iniciando com Kubernetes: Tutorial passo a passo - Full Cycle](https://www.youtube.com/watch?v=IeB9_PSGp6k&pp=ygUPY3Vyc28gS3ViZXJuZXRz)<br>
+> [Curso de Introdução ao Kubernetes - Insight Lab](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs)<br>
+> [Curso de Kubernetes - Mateus Schwede](https://www.youtube.com/playlist?list=PLnPZ9TE1Tj4CpbmTsTgqVpRG0hIgHXsaX)<br>
 
 ### Python
-> [](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)<br>
+> [Curso de Python 3 - Mundo 1: Fundamentos - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)<br>
+> [Curso de Python 3 - Mundo 2: Estruturas de Controle - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)<br>
+> [Curso de Python 3 - Mundo 3: Estruturas Compostas - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)<br>
+> [Mais de 100 exercicios em Python 3 - Curso em Vídeo]()<br>
+> [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)<br>
 
-### JS
-> [](https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)<br>
+### JavaScript
+> [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)<br>
 
 ### HTML
-> [](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)<br>
+> [Curso completo e atual de HTML5 e CSS3 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)<br>
 
 ### GO
-> [](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)<br>
+> [Aprenda Go 🇧🇷 - Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)<br>
+
+### Linux
+> [Curso de Linux - Primeiros Passos - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)<br>
+> [Curso de Linux Básico / Certificação LPIC - 1 - Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)<br>
