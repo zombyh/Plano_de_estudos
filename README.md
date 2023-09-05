@@ -1,4 +1,4 @@
-# Meu plano de estudos
+# Meu plano de estudos: 
 
 ### Segurança da informação
 > [Curso de Segurança da Informação - Módulo 00 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV)<br>
@@ -208,14 +208,17 @@
 > [Curso de Python 3 - Mundo 1: Fundamentos - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)<br>
 > [Curso de Python 3 - Mundo 2: Estruturas de Controle - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)<br>
 > [Curso de Python 3 - Mundo 3: Estruturas Compostas - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)<br>
-> [Mais de 100 exercicios em Python 3 - Curso em Vídeo]()<br>
+> [Mais de 100 exercicios em Python 3 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)<br>
 > [Curso de Python - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)<br>
 
 ### JavaScript
 > [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)<br>
 
 ### HTML
-> [Curso completo e atual de HTML5 e CSS3 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)<br>
+> [Curso HTML5 e CSS3 - Módulo 1 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)<br>
+> [Curso HTML5 e CSS3 - Módulo 2 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)<br>
+> [Curso HTML5 e CSS3 - Módulo 3 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)<br>
+> [Curso HTML5 e CSS3.- Módulo 4 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)<br>
 
 ### GO
 > [Aprenda Go 🇧🇷 - Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)<br>
