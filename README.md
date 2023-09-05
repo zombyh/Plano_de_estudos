@@ -149,9 +149,9 @@
 > [INTRODUÇÃO AO PENTEST NA PRÁTICA - Com certificado](https://desecsecurity.com/curso/introducao-pentest)<br>
 
 ### Pericia Forence e Investigação Cibernética
-> [Maratona Forence e Investigação Cibernética - DARYUS Talks](https://www.youtube.com/watch?v=ESyY9lraKAQ&list=PL1-VHUdOXEbrIMeVpYU_EBJEs_pWbTpmU&pp=iAQB)<br>
-> [Investigação Forense em IoT - DARYUS Talks](https://www.youtube.com/watch?v=zpIp5S5pmD0&list=PL1-VHUdOXEbpudXQsEwIF_JiS4Or0KqAn)<br>
-> [Investigação Forense 2019 - DARYUS Talks](https://www.youtube.com/watch?v=OHx0VT4x2jM&list=PL1-VHUdOXEbo1qsH2GF1_x4ze4LnmlS6S)<br>
+> [Maratona Forence e Investigação Cibernética - DARYUS Talks](https://www.youtube.com/playlist?list=PL1-VHUdOXEbrIMeVpYU_EBJEs_pWbTpmU)<br>
+> [Investigação Forense em IoT - DARYUS Talks](https://www.youtube.com/playlist?list=PL1-VHUdOXEbpudXQsEwIF_JiS4Or0KqAn)<br>
+> [Investigação Forense 2019 - DARYUS Talks](https://www.youtube.com/playlist?list=PL1-VHUdOXEbo1qsH2GF1_x4ze4LnmlS6S)<br>
 
 ### Trend Micro 
 > [DEMO - XDR TREND MICRO VISION ONE - Trend Micro Brasil](https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUWdmlzaW9uIG9uZSB0cmVuZCBtaWNybw%3D%3D)<br>
@@ -221,7 +221,7 @@
 > [Curso HTML5 e CSS3.- Módulo 4 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)<br>
 
 ### GO
-> [Aprenda Go 🇧🇷 - Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)<br>
+> [Aprenda Go 🇧🇷 - Aprenda Go](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)<br>
 
 ### Linux
 > [Curso de Linux - Primeiros Passos - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)<br>
