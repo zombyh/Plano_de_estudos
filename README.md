@@ -6,7 +6,7 @@
 > [Curso de Segurança da Informação - Módulo 02 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlT599reA1xLkbT83g2gMvI)<br>
 
 ### Github
-> [Curso de Git + GitHub 2023 - Pietro Martins De Oliveira](https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV)<br>
+> [Curso de Git + GitHub 2023 - Pietro Martins De Oliveira](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV)<br>
 > [Curso de Git e GitHub sem usar comandos no terminal - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)<br>
 
 ### EPP - Endpoint Protection Plataform
@@ -20,7 +20,7 @@
 > [DETECTANDO E RESPONDENDO A AMEAÇAS AVANÇADAS | CONHEÇA AS SOLUÇÕES DE EDR - You IT Tecnologia](https://www.youtube.com/watch?v=SWzs-ex2rLM)<br>
 
 ### NDR - Network Detection and Response
-> [Network Detection and Response - Cisco Secure Network Analytics - Curso em inglês](https://www.youtube.com/watch?v=dUinLCRExTk&list=PLoFjNe1MRmVBdsCcfeE8Nw6KmGtzMg8Aq)<br>
+> [Network Detection and Response - Cisco Secure Network Analytics - Curso em inglês](https://www.youtube.com/playlist?list=PLoFjNe1MRmVBdsCcfeE8Nw6KmGtzMg8Aq)<br>
 
 ### XDR - Extended Detection and Response
 > [XDR TREND MICRO VISION ONE - Trend Micro Brasil](https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUMY3Vyc28gZGUgZWRy)<br>
@@ -43,27 +43,27 @@
 
 ### Redes
 > [Melhores práticas de segurança para redes Microsoft - Mundo TI Brasil](https://www.youtube.com/watch?v=F4W5H8pWHec&pp=ygUPUmVkZXMgTWljcm9zb2Z0)<br>
-> [Cursos de Fundamentos de Redes de Computadores e Internet - Hardware Redes Brasil](https://www.youtube.com/watch?v=YbRHeRFYyCQ&list=PLAp37wMSBouDdpuuYhZfEK9oH0qk0IANb)<br>
+> [Cursos de Fundamentos de Redes de Computadores e Internet - Hardware Redes Brasil](https://www.youtube.com/playlist?list=PLAp37wMSBouDdpuuYhZfEK9oH0qk0IANb)<br>
 > [Curso de Redes com MikroTik - Redes Brasil](https://www.youtube.com/playlist?list=PL1HkL1MnPEeVMEVRqUqQIYTBEibXJDiYK)<br>
 
 ### Firewall
 > [Aulão de Firewall - Redes Brasil](https://www.youtube.com/watch?v=mIwxvquY14Y&pp=ygURY3Vyc28gZGUgZmlyZXdhbGw%3D)<br>
 > [Mikrotik curso completo - Leonardo Vieira](https://www.youtube.com/playlist?list=PLD53z3_SAbssgcblXwxqXgaywLAN7y68h)<br>
 > [Curso pfSense 2022 - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFDsGaj09kdTHX3T9GMPTNA0)<br>
-> [OPNsense - TI na Real](https://www.youtube.com/watch?v=W4Wsuf8L4ak&list=PL2EbCLtbwa4nZlZCptc3afxlVep9dVp0O&pp=iAQB)<br>
-> [Construindo uma Rede segura com Sophos - Fagner Nascimento](https://www.youtube.com/watch?v=wQ3_exlS_EM&list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ)<br>
+> [OPNsense - TI na Real](https://www.youtube.com/playlist?list=PL2EbCLtbwa4nZlZCptc3afxlVep9dVp0O)<br>
+> [Construindo uma Rede segura com Sophos - Fagner Nascimento](https://www.youtube.com/playlist?list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ)<br>
 
 ### Proxy
 > [Entendendo como um Proxy Linux funciona - Vagner Fonseca](https://www.youtube.com/watch?v=oarEXZuEPL4&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
 > [Uma introdução ao Proxy SQUID | Servidor Proxy no Linux - Vagner Fonseca](https://www.youtube.com/watch?v=TFWCNWjZk-Q&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
 
 ### SQL
-> [Curso SQL Completo 2023 [Iniciantes] + Desafios + Muita Prática - Dev Aprender | Jhonatan de Souza](https://www.youtube.com/watch?v=G7bMwefn8RQ&pp=ygUJY3Vyc28gc3Fs)<br>
-> [Curso de SQL com MySQL (Completo) - Otávio Miranda](https://www.youtube.com/watch?v=lHYV_H1526Q&list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)<br>
-> [Curso de Banco de Dados MySQL - Curso em Vídeo](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)<br>
+> [Curso SQL Completo 2023 + Desafios + Muita Prática - Dev Aprender | Jhonatan de Souza](https://www.youtube.com/watch?v=G7bMwefn8RQ)<br>
+> [Curso de SQL com MySQL (Completo) - Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)<br>
+> [Curso de Banco de Dados MySQL - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)<br>
 
 ### Inteligencia e Defesa Cibernética
-> [Cyber Defense e Threat Intelligence](https://www.youtube.com/watch?v=BvSdA4JC3bk&list=PL1-VHUdOXEbqLzvf2e4lh8LrSTQ221Eow)<br>
+> [Cyber Defense e Threat Intelligence](https://www.youtube.com/playlist?list=PL1-VHUdOXEbqLzvf2e4lh8LrSTQ221Eow)<br>
 
 ### Thread Prevention
 > [Threat Hunting Process e o Método Investigativo - Renato Fontana](https://www.youtube.com/watch?v=Z4EbWPYt6vE&pp=ygUXY3Vyc28gVGhyZWFkIFByZXZlbnRpb24%3D)<br>
@@ -80,13 +80,13 @@
 
 ### Governança, Itil e Cobit
 > [Playlist Governança e CobiT - Prof. Adriano Martins Antonio](https://www.youtube.com/playlist?list=PLcEPi2yN6Z0KF911O5S5kXtPxSfwviGat)<br>
-> [Playlist ITIL 4 e ITSM - Prof. Adriano Martins Antonio](https://www.youtube.com/watch?v=QUjw2QKEuF8&list=PLcEPi2yN6Z0KG9nQa-Xv33tURfEOw53NR)<br>
+> [Playlist ITIL 4 e ITSM - Prof. Adriano Martins Antonio](https://www.youtube.com/playlist?list=PLcEPi2yN6Z0KG9nQa-Xv33tURfEOw53NR)<br>
 
 ### GDPR - Regulamento Geral sobre a Proteção de Dados
 > [O que você precisa saber sobre o GDPR! - Módulo Security Solutions](https://www.youtube.com/watch?v=egGvTgk3HH8)<br>
 
-### Soluções de segurança baseadas em palo alto
-> [Curso Palo Alto Networks - TI na Real](https://www.youtube.com/watch?v=CrrfY59sir4&list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy&pp=iAQB)<br>
+### Soluções de segurança baseadas em Palo Alto
+> [Curso Palo Alto Networks - TI na Real](https://www.youtube.com/playlist?list=PL2EbCLtbwa4lQ9lDFfGEz5Uba1Z1IO8yy)<br>
 
 ### Frameworks NIST, MITRE e ATT&CK
 > [Entendendo o NIST CyberSecurity Framework - DARYUS Talks](https://www.youtube.com/watch?v=Q8e-gM142bw&pp=ygUORnJhbWV3b3JrIE5JU1Q%3D)<br>
@@ -107,7 +107,7 @@
 > [Treinamento de Introdução ao Monitoramento da Rede com Zabbix e Grafana (2021) - Bee Solutions](https://www.youtube.com/watch?v=f_a72WWROKI&pp=ygUNY3Vyc28gR3JhZmFuYQ%3D%3D)<br>
 
 ### LGPD - Lei Geral de Proteção de Dados
-> [Playlist LGPD - Módulo Security Solutions](https://www.youtube.com/watch?v=OSFc9Kejdtg&list=PL2sbta06njJvZRKZi8y9EG4Sp-9TFl0cy)<br>
+> [Playlist LGPD - Módulo Security Solutions](https://www.youtube.com/playlist?list=PL2sbta06njJvZRKZi8y9EG4Sp-9TFl0cy)<br>
 
 ### NoSQL
 > [Introdução ao NoSQL-MongoDB - Ricardo Leme](https://www.youtube.com/playlist?list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj)<br>
@@ -137,8 +137,8 @@
 > [Sistema de intrusão da Hikvision - Papo Segurança](https://www.youtube.com/watch?v=FiUE1SomFIU&pp=ygUpY3Vyc28gU2lzdGVtYSBkZSBQcmV2ZW7Dp8OjbyBkZSBJbnRydXPDo28%3D)<br>
 
 ### Mapeamento de riscos,  ameaças, vulnerabilidades e recuperação em incidentes
-> [Curso Grátis de Gestão de Riscos - ProdutividadeMaxima](https://www.youtube.com/watch?v=m2XXLxRtwT8&list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS)<br>
-> [Identificação, Combate e Resposta a Incidentes de Segurança - Ricardo Kléber IFRN](https://www.youtube.com/watch?v=7f3I58SBHMY&pp=ygU2cmVjdXBlcmHDp8OjbyBlbSBpbmNpZGVudGVzIHNlZ3VyYW7Dp2EgZGEgaW5mb3JtYcOnw6Nv)<br>
+> [Curso Grátis de Gestão de Riscos - ProdutividadeMaxima](https://www.youtube.com/playlist?list=PLOtwMQN_J2c8XmDYLF4IfeQDUmV1eJgMS)<br>
+> [Identificação, Combate e Resposta a Incidentes de Segurança - Ricardo Kléber IFRN](https://www.youtube.com/watch?v=7f3I58SBHMY)<br>
 
 ### Pentest
 > [Canal HACKER ÉTICO TECNICAS DE INVASÃO](https://www.youtube.com/@hackereticoo/videos)<br>
@@ -158,7 +158,7 @@
 > [REDEFININDO A SEGURANÇA DE ENDPOINTS - TREND MICRO - Trend Micro Brasil](https://www.youtube.com/playlist?list=PLcaWiSBV1nWqQA2sOcfOFjZTYUJZEAQK2)<br>
 
 ### Virtualização VMWARE e Proxmox
-> [Curso VMWARE - TI na Real](https://www.youtube.com/watch?v=1Y6haDEtEHg&list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u&pp=iAQB)<br>
+> [Curso VMWARE - TI na Real](https://www.youtube.com/playlist?list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u)<br>
 > [Curso Completo Proxmox versões 3, 4 e 5 - Tecnoapp Soluções](https://www.youtube.com/playlist?list=PLp8CLnJz1dTFIB5h_us0kx5vu3yviBtf9)<br>
 
 ### Security Operation Center (SOC)
