@@ -54,6 +54,7 @@
 > [Construindo uma Rede segura com Sophos - Fagner Nascimento](https://www.youtube.com/playlist?list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ)<br>
 
 ### Proxy
+> [Proxy - SegInfoBrasil](https://www.youtube.com/watch?v=oh1_cgkGbpI)<br>
 > [Entendendo como um Proxy Linux funciona - Vagner Fonseca](https://www.youtube.com/watch?v=oarEXZuEPL4&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
 > [Uma introdução ao Proxy SQUID | Servidor Proxy no Linux - Vagner Fonseca](https://www.youtube.com/watch?v=TFWCNWjZk-Q&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
 
