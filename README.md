@@ -47,11 +47,13 @@
 > [Curso de Redes com MikroTik - Redes Brasil](https://www.youtube.com/playlist?list=PL1HkL1MnPEeVMEVRqUqQIYTBEibXJDiYK)<br>
 
 ### Firewall
+> [IMPLEMENTANDO UM FIREWALL A PARTIR DO ZERO - Hackone | CCIE Lucas Palma](https://www.youtube.com/watch?v=T_dRIKMqOTQ)<br>
 > [Aulão de Firewall - Redes Brasil](https://www.youtube.com/watch?v=mIwxvquY14Y&pp=ygURY3Vyc28gZGUgZmlyZXdhbGw%3D)<br>
 > [Mikrotik curso completo - Leonardo Vieira](https://www.youtube.com/playlist?list=PLD53z3_SAbssgcblXwxqXgaywLAN7y68h)<br>
-> [Curso pfSense 2022 - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFDsGaj09kdTHX3T9GMPTNA0)<br>
+> [Curso Grátis pfSense Firewall Server - Bora para Prática!!!](https://www.youtube.com/playlist?list=PLozhsZB1lLUN7vHnCDA2NF6rMfTBs-vAs)<br>
 > [OPNsense - TI na Real](https://www.youtube.com/playlist?list=PL2EbCLtbwa4nZlZCptc3afxlVep9dVp0O)<br>
 > [Construindo uma Rede segura com Sophos - Fagner Nascimento](https://www.youtube.com/playlist?list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ)<br>
+
 
 ### Proxy
 > [Proxy - SegInfoBrasil](https://www.youtube.com/watch?v=oh1_cgkGbpI)<br>
@@ -119,10 +121,11 @@
 > [Minicurso Terraform - Iago Ferreira TI](https://www.youtube.com/playlist?list=PLPqoPgWuohm5gnIJa7t-rMWUCYz9tI1xa)<br>
 > [Curso de Ansible - Mário Santana](https://www.youtube.com/playlist?list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX)<br>
 
-### Windows Server
-> [15 Políticas de Grupo (GPO) Essenciais - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFDOc2tmpj7-LUO0TXF0RtYk)<br>
-> [Curso Active Directory Rápido - SysAdminBr](https://www.youtube.com/playlist?list=PLFajyb7NamFCLq2BXQQcl2oE15LSuoqpR)<br>
+### Windows Server e Active Directory
+
+> [Curso Grátis Administrando Windows Server 2016 - ProfessorRamos](https://www.youtube.com/playlist?list=PL35Zp8zig6snWlxMHhjHKoUtwM1v2ZyiI)<br>
 > [Curso Windows Server 2019 - Iago Ferreira TI](https://www.youtube.com/playlist?list=PLPqoPgWuohm48cyOCSIHl0a_daKv9Hx0j)<br>
+> [Vídeo Aulas de Windows Server e Active Directory - Júlio Battisti](https://www.youtube.com/playlist?list=PLqjSTsK75fSfjLfIziCiT65HUC5LgpLQS)<br>
 
 ### Sistemas de Backup Veeam,  Acronis e Commvault
 > [Green Talks - Veeam: Muito além do backup e replicação! - VUG Brasil](https://www.youtube.com/watch?v=ZMMDZMMSL9I&pp=ygUYU2lzdGVtYXMgZGUgQmFja3VwIFZlZWFt)<br>
