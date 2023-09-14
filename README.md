@@ -54,7 +54,6 @@
 > [OPNsense - TI na Real](https://www.youtube.com/playlist?list=PL2EbCLtbwa4nZlZCptc3afxlVep9dVp0O)<br>
 > [Construindo uma Rede segura com Sophos - Fagner Nascimento](https://www.youtube.com/playlist?list=PLDmzUqrUykTn_zpuYglnyc5ekyoPDxuEZ)<br>
 
-
 ### Proxy
 > [Proxy - SegInfoBrasil](https://www.youtube.com/watch?v=oh1_cgkGbpI)<br>
 > [Entendendo como um Proxy Linux funciona - Vagner Fonseca](https://www.youtube.com/watch?v=oarEXZuEPL4&pp=ygUKYXVsYSBwcm94eQ%3D%3D)<br>
@@ -161,6 +160,14 @@
 > [DEMO - XDR TREND MICRO VISION ONE - Trend Micro Brasil](https://www.youtube.com/watch?v=pXEyQU8BMTo&pp=ygUWdmlzaW9uIG9uZSB0cmVuZCBtaWNybw%3D%3D)<br>
 > [REDEFININDO A SEGURANÇA DE ENDPOINTS - TREND MICRO - Trend Micro Brasil](https://www.youtube.com/playlist?list=PLcaWiSBV1nWqQA2sOcfOFjZTYUJZEAQK2)<br>
 
+### Kaspersky
+> [Kaspersky Endpoint Security Cloud (Parte 1) Instalação passo a passo | Total Service Informática.](https://www.youtube.com/watch?v=mJsQh_JDBQ4)<br>
+> [Kaspersky Endpoint Security Cloud (Parte 2) Instalação passo a passo | Total Service Informática.](https://www.youtube.com/watch?v=8U0MEdZ9AqA)<br>
+> [Kaspersky Security Center | Instalação da Console - README.PLAY](https://www.youtube.com/watch?v=O1oRJEK9qOA)<br>
+> [Kaspersky Security Center | Criação de Politicas - README.PLAY](https://www.youtube.com/watch?v=RSNZVm1Hodg)<br>
+> [Kaspersky Security Center | Criação de Pacotes de Instalação - README.PLAY](https://www.youtube.com/watch?v=y0Um1Fu2XUw)<br>
+> [Destrinchando o Kaspersky Total Security 2022 para Windows - Mauricio Cassemiro](https://www.youtube.com/watch?v=jXxomYGF9i0)<br>
+
 ### Virtualização VMWARE e Proxmox
 > [Curso VMWARE - TI na Real](https://www.youtube.com/playlist?list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u)<br>
 > [Curso Completo Proxmox versões 3, 4 e 5 - Tecnoapp Soluções](https://www.youtube.com/playlist?list=PLp8CLnJz1dTFIB5h_us0kx5vu3yviBtf9)<br>
@@ -172,7 +179,6 @@
 ### Antivirus corporativo
 > [LIVE - ANTIVÍRUS GRATUITO, SERÁ QUE FUNCIONA? - Solid Ti](https://www.youtube.com/watch?v=ZzBZBh3e4_M)<br>
 > [Webinar - Mais que um antivírus: Descubra o poder do Microsoft Defender para sua empresa - Lattine Group](https://www.youtube.com/watch?v=L0leGpkYCqc)<br>
-> [Destrinchando o Kaspersky Total Security 2022 para Windows - Mauricio Cassemiro](https://www.youtube.com/watch?v=jXxomYGF9i0)<br>
 
 ### Cyberark
 > [Webinar Cyberark - Participação Negreiros - CLM | Tech](https://www.youtube.com/watch?v=YAvSo5s7wu4&pp=ygUIQ3liZXJhcms%3D)<br>
