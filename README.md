@@ -9,9 +9,6 @@
 > [Curso de Git + GitHub 2023 - Pietro Martins De Oliveira](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV)<br>
 > [Curso de Git e GitHub sem usar comandos no terminal - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)<br>
 
-### EPP - Endpoint Protection Plataform
-> [Implementação e Gestão do Kaspersky Endpoint Security for Business - Solo Network Brasil](https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50)<br>
-
 ### EDR - Endpoint Detection and Response
 > [EDR Optimum - Conheça as Funcionalidades e a Console - EsyTV](https://www.youtube.com/watch?v=WGdN2Lwu9xk)<br>
 > [Webinar CrowdStrike - Next-Gen Av para Proteção Endpoint - InterOp](https://www.youtube.com/watch?v=jN3kENvsLBI)<br>
@@ -163,10 +160,12 @@
 ### Kaspersky
 > [Kaspersky Endpoint Security Cloud (Parte 1) Instalação passo a passo | Total Service Informática.](https://www.youtube.com/watch?v=mJsQh_JDBQ4)<br>
 > [Kaspersky Endpoint Security Cloud (Parte 2) Instalação passo a passo | Total Service Informática.](https://www.youtube.com/watch?v=8U0MEdZ9AqA)<br>
+> [Kaspersky Endpoint Security Cloud (Parte 3/3) Instalação passo a passo | Total Service Informática.](https://www.youtube.com/watch?v=ZuUWfktYlng)<br>
 > [Kaspersky Security Center | Instalação da Console - README.PLAY](https://www.youtube.com/watch?v=O1oRJEK9qOA)<br>
 > [Kaspersky Security Center | Criação de Politicas - README.PLAY](https://www.youtube.com/watch?v=RSNZVm1Hodg)<br>
 > [Kaspersky Security Center | Criação de Pacotes de Instalação - README.PLAY](https://www.youtube.com/watch?v=y0Um1Fu2XUw)<br>
 > [Destrinchando o Kaspersky Total Security 2022 para Windows - Mauricio Cassemiro](https://www.youtube.com/watch?v=jXxomYGF9i0)<br>
+> [Implementação e Gestão do Kaspersky Endpoint Security for Business - Solo Network Brasil](https://www.youtube.com/watch?v=XD_1igh3w4o&pp=ygUSa2FzcGVyc2t5IGVuZHBvaW50)<br>
 
 ### Virtualização VMWARE e Proxmox
 > [Curso VMWARE - TI na Real](https://www.youtube.com/playlist?list=PL2EbCLtbwa4nwfTcE2Er0bQPFsUfaVx5u)<br>
